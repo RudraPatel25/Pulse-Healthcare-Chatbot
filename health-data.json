@@ -1,0 +1,4696 @@
+{
+    "diseases": [
+      {
+        "name": "Acne",
+        "description": "Acne is a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells.",
+        "symptoms": [
+          "Blackheads",
+          "Whiteheads",
+          "Pimples",
+          "Cysts",
+          "Nodules"
+        ],
+        "treatments": [
+          "Topical creams and gels containing benzoyl peroxide or retinoids",
+          "Oral medications such as antibiotics or isotretinoin",
+          "Chemical peels",
+          "Laser and light therapies"
+        ]
+      },
+      {
+        "name": "Appendicitis",
+        "description": "Appendicitis is a condition where the appendix becomes inflamed and swollen, usually as a result of an infection.",
+        "symptoms": [
+          "Pain in the lower right side of the abdomen",
+          "Nausea and vomiting",
+          "Loss of appetite",
+          "Fever",
+          "Constipation or diarrhea"
+        ],
+        "treatments": [
+          "Surgery to remove the appendix",
+          "Antibiotics to treat the infection",
+          "Pain medication"
+        ]
+      },
+      {
+        "name": "Arthritis",
+        "description": "Arthritis is a condition where one or more joints become inflamed, causing pain, stiffness, and limited range of motion.",
+        "symptoms": [
+          "Joint pain and stiffness",
+          "Swelling and redness around the joint",
+          "Limited range of motion",
+          "Fatigue",
+          "Fever"
+        ],
+        "treatments": [
+          "Pain medication",
+          "Anti-inflammatory drugs",
+          "Physical therapy",
+          "Joint replacement surgery"
+        ]
+      },
+      {
+        "name": "Asthma",
+        "description": "Asthma is a chronic condition where the airways in the lungs become inflamed and narrow, making it difficult to breathe.",
+        "symptoms": [
+          "Wheezing",
+          "Coughing",
+          "Shortness of breath",
+          "Chest tightness",
+          "Difficulty breathing"
+        ],
+        "treatments": [
+          "Bronchodilators to open up the airways",
+          "Corticosteroids to reduce inflammation",
+          "Leukotriene modifiers",
+          "Immunomodulators"
+        ]
+      },
+      {
+        "name": "Atherosclerosis",
+        "description": "Atherosclerosis is a condition where plaque builds up inside the arteries, making them narrower and restricting blood flow.",
+        "symptoms": [
+          "Chest pain",
+          "Shortness of breath",
+          "Weakness or numbness in limbs",
+          "Headache",
+          "Blurry vision"
+        ],
+        "treatments": [
+          "Lifestyle changes such as quitting smoking and eating a healthy diet",
+          "Medications to lower cholesterol and blood pressure",
+          "Angioplasty or stenting to open up blocked arteries",
+          "Surgery to bypass blocked arteries"
+        ]
+      },
+      {
+        "name": "Bronchitis",
+        "description": "Bronchitis is an inflammation of the lining of the bronchial tubes, which carry air to and from the lungs.",
+        "symptoms": [
+          "Persistent cough",
+          "Mucus production",
+          "Wheezing",
+          "Shortness of breath",
+          "Chest discomfort"
+        ],
+        "treatments": [
+          "Rest and hydration",
+          "Over-the-counter cough medicine",
+          "Inhaled bronchodilators",
+          "Corticosteroids",
+          "Antibiotics (if bacterial)"
+        ]
+      },
+      {
+        "name": "Cataracts",
+        "description": "Cataracts are a clouding of the eye's natural lens, which can cause blurry vision and eventually blindness if left untreated.",
+        "symptoms": [
+          "Blurred or dimmed vision",
+          "Difficulty seeing at night",
+          "Sensitivity to light",
+          "Frequent changes in eyeglass or contact lens prescription"
+        ],
+        "treatments": [
+          "Prescription eyeglasses or contact lenses",
+          "Surgery to remove and replace the clouded lens"
+        ]
+      },
+      {
+        "name": "Celiac disease",
+        "description": "Celiac disease is an autoimmune disorder in which the body's immune system attacks the small intestine when gluten is ingested, leading to damage and malabsorption of nutrients.",
+        "symptoms": [
+          "Abdominal pain and bloating",
+          "Diarrhea or constipation",
+          "Fatigue",
+          "Weight loss",
+          "Iron-deficiency anemia"
+        ],
+        "treatments": [
+          "A gluten-free diet",
+          "Supplements to correct nutrient deficiencies"
+        ]
+      },
+      {
+        "name": "Cirrhosis",
+        "description": "Cirrhosis is a late stage of liver disease in which healthy liver tissue is replaced with scar tissue, impairing liver function and leading to a range of symptoms.",
+        "symptoms": [
+          "Fatigue and weakness",
+          "Loss of appetite and weight loss",
+          "Nausea and vomiting",
+          "Abdominal swelling and pain",
+          "Jaundice (yellowing of the skin and eyes)"
+        ],
+        "treatments": [
+          "Treatment of underlying causes (e.g., alcohol cessation, hepatitis treatment)",
+          "Medications to manage symptoms",
+          "Liver transplant in severe cases"
+        ]
+      },
+      {
+        "name": "Colitis",
+        "description": "Colitis is an inflammation of the colon, which can cause a range of symptoms depending on the underlying cause.",
+        "symptoms": [
+          "Abdominal pain and cramping",
+          "Diarrhea or constipation",
+          "Rectal bleeding",
+          "Urgent bowel movements",
+          "Fever and fatigue"
+        ],
+        "treatments": [
+          "Anti-inflammatory medications",
+          "Immunosuppressants",
+          "Surgery to remove the colon in severe cases"
+        ]
+      },{
+        "name": "Conjunctivitis",
+        "description": "Conjunctivitis, also known as pink eye, is an inflammation of the conjunctiva, which is the thin, clear tissue that lines the inside of the eyelid and covers the white part of the eye.",
+        "symptoms": [
+          "Redness in the white of the eye or inner eyelid",
+          "Increased amount of tears",
+          "Thick yellow discharge that crusts over the eyelashes, especially after sleep",
+          "Itchy or burning eyes",
+          "Blurred vision",
+          "Sensitivity to light"
+        ],
+        "treatments": [
+          "Artificial tears",
+          "Antihistamine eye drops",
+          "Topical corticosteroids",
+          "Cold compresses",
+          "Warm compresses"
+        ]
+      },
+      {
+        "name": "Crohn's disease",
+        "description": "Crohn's disease is a type of inflammatory bowel disease that can affect any part of the gastrointestinal tract from mouth to anus. Symptoms include abdominal pain, diarrhea, and weight loss.",
+        "symptoms": [
+          "Abdominal pain and cramping",
+          "Diarrhea",
+          "Blood in your stool",
+          "Reduced appetite and weight loss",
+          "Fatigue",
+          "Fever"
+        ],
+        "treatments": [
+          "Anti-inflammatory drugs",
+          "Immune system suppressors",
+          "Antibiotics",
+          "Nutrition therapy",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Cystic fibrosis",
+        "description": "Cystic fibrosis is an inherited disorder that causes severe damage to the lungs, digestive system and other organs in the body. It affects the cells that produce mucus, sweat and digestive juices.",
+        "symptoms": [
+          "Persistent cough with thick mucus",
+          "Wheezing or shortness of breath",
+          "Poor growth or weight gain",
+          "Frequent respiratory infections",
+          "Salty-tasting skin",
+          "Difficulty with bowel movements"
+        ],
+        "treatments": [
+          "Airway clearance techniques",
+          "Inhaled medications",
+          "Oral pancreatic enzyme supplements",
+          "Antibiotics",
+          "Nutrition therapy"
+        ]
+      },
+      {
+        "name": "Dementia",
+        "description": "Dementia is a general term for a decline in mental ability severe enough to interfere with daily life. Memory loss is an example. Alzheimer's is the most common type of dementia.",
+        "symptoms": [
+          "Memory loss",
+          "Difficulty communicating",
+          "Inability to focus or pay attention",
+          "Poor reasoning or judgment",
+          "Confusion and disorientation",
+          "Mood changes"
+        ],
+        "treatments": [
+          "Medications to treat cognitive symptoms",
+          "Antidepressants",
+          "Antipsychotics",
+          "Occupational therapy",
+          "Speech therapy"
+        ]
+      },
+      {
+        "name": "Diabetes mellitus",
+        "description": "Diabetes mellitus is a chronic metabolic disorder characterized by high blood sugar levels due to the body's inability to produce or use insulin effectively.",
+        "symptoms": [
+          "Increased thirst",
+          "Frequent urination",
+          "Extreme hunger",
+          "Unexplained weight loss",
+          "Fatigue",
+          "Blurred vision",
+          "Slow-healing sores or frequent infections",
+          "Tingling or numbness in the hands or feet",
+          "Dry, itchy skin"
+        ],
+        "treatments": [
+          "Lifestyle changes (e.g. diet, exercise)",
+          "Oral medications (e.g. metformin, sulfonylureas)",
+          "Insulin therapy",
+          "Blood sugar monitoring",
+          "Regular check-ups with a healthcare provider"
+        ]
+      },
+      {
+        "name": "Emphysema",
+        "description": "Emphysema is a lung disease that damages the air sacs in the lungs. This damage makes it harder to breathe and can lead to shortness of breath, coughing, and wheezing.",
+        "symptoms": [
+          "Shortness of breath, especially during physical activities",
+          "Wheezing",
+          "Chest tightness",
+          "Chronic cough",
+          "Lack of energy"
+        ],
+        "treatments": [
+          "Quitting smoking",
+          "Medications such as bronchodilators, inhaled steroids, or oxygen therapy",
+          "Pulmonary rehabilitation",
+          "Lung volume reduction surgery",
+          "Lung transplant"
+        ]
+      },
+      {
+        "name": "Endometriosis",
+        "description": "Endometriosis is a condition where the tissue that normally lines the inside of the uterus grows outside of it, leading to pain and discomfort.",
+        "symptoms": [
+          "Painful periods",
+          "Pain during intercourse",
+          "Painful bowel movements or urination during menstruation",
+          "Excessive bleeding",
+          "Infertility"
+        ],
+        "treatments": [
+          "Pain relievers such as nonsteroidal anti-inflammatory drugs (NSAIDs)",
+          "Hormone therapy",
+          "Surgery to remove endometrial tissue",
+          "Assisted reproductive technologies (ART)"
+        ]
+      },
+      {
+        "name": "Epilepsy",
+        "description": "Epilepsy is a neurological disorder that causes seizures, which can range from mild to severe and affect different parts of the brain.",
+        "symptoms": [
+          "Seizures",
+          "Temporary confusion",
+          "Staring spells",
+          "Loss of consciousness",
+          "Psychic symptoms"
+        ],
+        "treatments": [
+          "Antiepileptic drugs (AEDs)",
+          "Surgery to remove the part of the brain causing seizures",
+          "Vagus nerve stimulation (VNS)",
+          "Ketogenic diet"
+        ]
+      },
+      {
+        "name": "Fibromyalgia",
+        "description": "Fibromyalgia is a chronic condition that causes widespread pain and tenderness in the body, as well as fatigue, sleep disturbances, and cognitive difficulties.",
+        "symptoms": [
+          "Widespread pain",
+          "Tender points",
+          "Fatigue",
+          "Sleep disturbances",
+          "Cognitive difficulties"
+        ],
+        "treatments": [
+          "Pain relievers such as acetaminophen, NSAIDs, or opioids",
+          "Antidepressants",
+          "Anticonvulsants",
+          "Physical therapy",
+          "Counseling"
+        ]
+      },
+      {
+        "name": "Gallstones",
+        "description": "Gallstones are hardened deposits of digestive fluid that can form in the gallbladder, causing pain and other complications.",
+        "symptoms": [
+          "Sudden and rapidly intensifying pain in the upper right portion of your abdomen",
+          "Pain in the back between the shoulder blades",
+          "Pain in the right shoulder",
+          "Nausea",
+          "Vomiting"
+        ],
+        "treatments": [
+          "Surgery to remove the gallbladder (cholecystectomy)",
+          "Medications to dissolve gallstones",
+          "Lithotripsy"
+        ]
+      },
+      {
+        "name": "Gastritis",
+        "description": "Inflammation of the stomach lining",
+        "symptoms": [
+          "Abdominal pain",
+          "Nausea",
+          "Vomiting"
+        ],
+        "treatments": [
+          "Antacids",
+          "Proton pump inhibitors",
+          "Dietary changes"
+        ]
+      },
+      {
+        "name": "Glaucoma",
+        "description": "Damage to the optic nerve that can lead to vision loss",
+        "symptoms": [
+          "Blurred vision",
+          "Eye pain",
+          "Headaches"
+        ],
+        "treatments": [
+          "Eye drops",
+          "Laser surgery",
+          "Trabeculectomy"
+        ]
+      },
+      {
+        "name": "Gout",
+        "description": "A type of arthritis caused by a buildup of uric acid crystals in the joints",
+        "symptoms": [
+          "Intense joint pain",
+          "Swelling",
+          "Redness"
+        ],
+        "treatments": [
+          "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+          "Colchicine",
+          "Urate-lowering therapy"
+        ]
+      },
+      {
+        "name": "Hemorrhoids",
+        "description": "Swollen veins in the anus and lower rectum",
+        "symptoms": [
+          "Bleeding",
+          "Pain or discomfort",
+          "Itching"
+        ],
+        "treatments": [
+          "Over-the-counter creams or ointments",
+          "Sitz baths",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Hernia",
+        "description": "A bulge or protrusion of an organ or tissue through an abnormal opening in the abdominal wall",
+        "symptoms": [
+          "A visible bulge",
+          "Pain or discomfort",
+          "Nausea or vomiting"
+        ],
+        "treatments": [
+          "Watchful waiting",
+          "Hernia truss",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Hiatal hernia",
+        "description": "Hiatal hernia is a condition in which a portion of the stomach protrudes upward into the chest, through an opening in the diaphragm.",
+        "symptoms": [
+          "Heartburn",
+          "Acid reflux",
+          "Difficulty swallowing",
+          "Chest or abdominal pain",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Antacids",
+          "Medications to reduce acid production",
+          "Surgery (in severe cases)"
+        ]
+      },
+      {
+        "name": "Inflammatory bowel disease",
+        "description": "Inflammatory bowel disease (IBD) is a group of chronic conditions that cause inflammation in the digestive tract.",
+        "symptoms": [
+          "Abdominal pain",
+          "Diarrhea",
+          "Rectal bleeding",
+          "Fatigue",
+          "Weight loss"
+        ],
+        "treatments": [
+          "Medications to reduce inflammation",
+          "Immunosuppressants",
+          "Surgery (in severe cases)"
+        ]
+      },
+      {
+        "name": "Interstitial cystitis",
+        "description": "Interstitial cystitis (IC) is a chronic condition that causes bladder pain and discomfort.",
+        "symptoms": [
+          "Pelvic pain",
+          "Frequent urination",
+          "Urgency to urinate",
+          "Painful urination",
+          "Pain during sexual intercourse"
+        ],
+        "treatments": [
+          "Bladder distention (stretching)",
+          "Medications to relieve bladder pain",
+          "Physical therapy",
+          "Nerve stimulation"
+        ]
+      },
+      {
+        "name": "Irritable bowel syndrome",
+        "description": "Irritable bowel syndrome (IBS) is a common condition that affects the large intestine.",
+        "symptoms": [
+          "Abdominal pain",
+          "Bloating",
+          "Diarrhea",
+          "Constipation",
+          "Mucus in the stool"
+        ],
+        "treatments": [
+          "Dietary changes",
+          "Fiber supplements",
+          "Medications to control bowel movements"
+        ]
+      },
+      {
+        "name": "Kidney stones",
+        "description": "Kidney stones are hard deposits of minerals and salts that form inside the kidneys.",
+        "symptoms": [
+          "Severe pain in the side and back, below the ribs",
+          "Pain that radiates to the lower abdomen and groin",
+          "Painful urination",
+          "Pink, red or brown urine",
+          "Nausea and vomiting"
+        ],
+        "treatments": [
+          "Drinking water to help pass the stone",
+          "Medications to relieve pain",
+          "Surgery (in severe cases)"
+        ]
+      },
+      {
+        "name": "Leukemia",
+        "description": "Leukemia is a type of cancer that affects the blood and bone marrow, the spongy tissue inside bones where blood cells are made.",
+        "symptoms": [
+          "Fatigue",
+          "Fever",
+          "Night sweats",
+          "Easy bruising or bleeding",
+          "Bone pain",
+          "Enlarged lymph nodes",
+          "Shortness of breath",
+          "Pale skin",
+          "Frequent infections",
+          "Weight loss",
+          "Headaches",
+          "Dizziness",
+          "Confusion",
+          "Seizures"
+        ],
+        "treatments": [
+          "Chemotherapy",
+          "Radiation therapy",
+          "Stem cell transplant",
+          "Targeted therapy",
+          "Biological therapy"
+        ]
+      },
+      {
+        "name": "Lymphoma",
+        "description": "Lymphoma is a type of cancer that affects the lymphatic system, which is part of the body's immune system.",
+        "symptoms": [
+          "Enlarged lymph nodes",
+          "Fever",
+          "Night sweats",
+          "Weight loss",
+          "Fatigue",
+          "Itching",
+          "Shortness of breath",
+          "Chest pain",
+          "Abdominal pain or swelling",
+          "Nausea",
+          "Vomiting",
+          "Loss of appetite",
+          "Headaches",
+          "Confusion",
+          "Seizures"
+        ],
+        "treatments": [
+          "Chemotherapy",
+          "Radiation therapy",
+          "Stem cell transplant",
+          "Targeted therapy",
+          "Biological therapy"
+        ]
+      },
+      {
+        "name": "Macular degeneration",
+        "description": "Macular degeneration is an eye disease that causes loss of vision in the center of the field of vision.",
+        "symptoms": [
+          "Blurred vision",
+          "Dark or empty areas in your central vision",
+          "Difficulty reading or recognizing faces",
+          "Distorted vision",
+          "Straight lines appearing wavy",
+          "Reduced central vision",
+          "Need for brighter light when reading or doing close work",
+          "Increased difficulty adapting to low light levels",
+          "Decreased intensity or brightness of colors"
+        ],
+        "treatments": [
+          "Anti-VEGF therapy",
+          "Photodynamic therapy",
+          "Laser therapy",
+          "Vitamin supplements",
+          "Low vision aids"
+        ]
+      },
+      {
+        "name": "Menopause",
+        "description": "Menopause is a natural biological process that marks the end of a woman's menstrual cycles.",
+        "symptoms": [
+          "Irregular periods",
+          "Hot flashes",
+          "Night sweats",
+          "Sleep problems",
+          "Mood changes",
+          "Weight gain and slowed metabolism",
+          "Thinning hair and dry skin",
+          "Loss of breast fullness",
+          "Vaginal dryness",
+          "Decreased sex drive",
+          "Pain during sex",
+          "Urinary incontinence",
+          "Increased urination or urgency"
+        ],
+        "treatments": [
+          "Hormone therapy",
+          "Low-dose antidepressants",
+          "Gabapentin",
+          "Clonidine",
+          "Vaginal estrogen",
+          "Vaginal moisturizers and lubricants"
+        ]
+      },
+      {
+        "name": "Migraine headaches",
+        "description": "Migraine headaches are a type of headache that typically cause intense throbbing pain in one area of the head, often accompanied by nausea, vomiting, and sensitivity to light and sound. They can last for hours or days and can be disabling.",
+        "symptoms": [
+          "Throbbing or pulsing pain on one side of the head",
+          "Sensitivity to light and sound",
+          "Nausea and vomiting",
+          "Blurred vision",
+          "Lightheadedness",
+          "Fatigue",
+          "Irritability"
+        ],
+        "treatments": [
+          "Pain-relieving medications such as aspirin or ibuprofen",
+          "Triptans, which are medications specifically designed to treat migraines",
+          "Preventive medications such as beta blockers or antidepressants",
+          "Avoiding triggers such as certain foods, stress, and lack of sleep",
+          "Resting in a quiet, dark room"
+        ]
+      },
+      {
+        "name": "Multiple sclerosis",
+        "description": "Multiple sclerosis (MS) is a chronic autoimmune disease of the central nervous system that affects the brain, spinal cord, and optic nerves.",
+        "symptoms": [
+          "Fatigue",
+          "Numbness or tingling in the limbs",
+          "Muscle weakness or spasms",
+          "Blurred or double vision",
+          "Difficulty with coordination and balance",
+          "Problems with speech and swallowing"
+        ],
+        "treatments": [
+          "Medications to slow the progression of the disease",
+          "Physical therapy",
+          "Occupational therapy",
+          "Speech therapy",
+          "Counseling or support groups"
+        ]
+      },
+      {
+        "name": "Myocardial infarction",
+        "description": "Myocardial infarction (MI), also known as a heart attack, occurs when blood flow to the heart muscle is blocked, usually by a blood clot. This can cause damage to the heart muscle and potentially be life-threatening.",
+        "symptoms": [
+          "Chest pain or discomfort",
+          "Shortness of breath",
+          "Nausea or vomiting",
+          "Feeling lightheaded or dizzy",
+          "Sweating",
+          "Pain or discomfort in the arms, back, neck, jaw, or stomach"
+        ],
+        "treatments": [
+          "Oxygen therapy",
+          "Aspirin or other antiplatelet medications",
+          "Thrombolytic therapy or percutaneous coronary intervention (PCI) to restore blood flow",
+          "Beta blockers, ACE inhibitors, or other medications to prevent future heart attacks",
+          "Lifestyle changes such as quitting smoking, eating a healthy diet, and getting regular exercise"
+        ]
+      },
+      {
+        "name": "Osteoarthritis",
+        "description": "Osteoarthritis (OA) is a degenerative joint disease that occurs when the protective cartilage on the ends of bones wears down over time, causing pain, stiffness, and loss of mobility.",
+        "symptoms": [
+          "Pain or stiffness in the joints, especially after periods of inactivity or overuse",
+          "Swelling or tenderness in the affected joints",
+          "A crunching or popping sensation when moving the joint",
+          "Limited range of motion",
+          "Bone spurs"
+        ],
+        "treatments": [
+          "Over-the-counter pain relievers such as acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs)",
+          "Prescription medications such as COX-2 inhibitors or corticosteroids",
+          "Physical therapy or occupational therapy",
+          "Assistive devices such as braces or canes",
+          "Lifestyle changes such as losing weight, getting regular exercise, and avoiding activities that exacerbate symptoms"
+        ]
+      },
+      {
+        "name": "Osteoporosis",
+        "description": "Osteoporosis is a bone disease that occurs when the body loses too much bone, makes too little bone, or both. As a result, bones become weak and may break from a fall or, in serious cases, from sneezing or minor bumps.",
+        "symptoms": [
+          "Back pain",
+          "Loss of height over time",
+          "A stooped posture",
+          "A bone that breaks much more easily than expected"
+        ],
+        "treatments": [
+          "Calcium and vitamin D supplements",
+          "Medications such as bisphosphonates, hormone therapy, and denosumab",
+          "Regular weight-bearing and muscle-strengthening exercise",
+          "Fall prevention measures, such as removing hazards and improving lighting in the home"
+        ]
+      },
+      {
+        "name": "Parkinson's disease",
+        "description": "Parkinson's disease is a neurodegenerative disorder that affects movement. It occurs when the brain cells that produce dopamine, a chemical that coordinates movement, die or become impaired. As a result, people with Parkinson's disease may experience tremors, stiffness, slow movement, and difficulty with balance and coordination.",
+        "symptoms": [
+          "Tremors or shaking, usually in the hands, arms, or legs",
+          "Stiffness or rigidity of the limbs and trunk",
+          "Slow movement (bradykinesia)",
+          "Impaired balance and coordination"
+        ],
+        "treatments": [
+          "Medications that increase dopamine in the brain, such as levodopa, dopamine agonists, and MAO-B inhibitors",
+          "Deep brain stimulation (DBS), a surgical procedure that involves implanting electrodes in the brain",
+          "Physical therapy to improve movement and balance",
+          "Speech therapy to improve voice and communication",
+          "Occupational therapy to improve daily activities"
+        ]
+      },
+      {
+        "name": "Peptic ulcer disease",
+        "description": "Peptic ulcer disease is a condition in which painful sores or ulcers develop in the lining of the stomach, small intestine, or esophagus.",
+        "symptoms": [
+          "Abdominal pain or discomfort",
+          "Nausea",
+          "Vomiting",
+          "Loss of appetite",
+          "Bloating",
+          "Belching",
+          "Weight loss"
+        ],
+        "treatments": [
+          "Antibiotics to kill H. pylori bacteria",
+          "Proton pump inhibitors to reduce stomach acid",
+          "Antacids to neutralize stomach acid",
+          "H2 blockers to reduce acid production",
+          "Lifestyle changes (e.g., avoiding alcohol and spicy foods)"
+        ]
+      },
+      {
+        "name": "Pneumonia",
+        "description": "Pneumonia is an infection that inflames the air sacs in one or both lungs, causing coughing, fever, and difficulty breathing.",
+        "symptoms": [
+          "Cough (with phlegm or without)",
+          "Fever",
+          "Chills",
+          "Shortness of breath",
+          "Rapid breathing",
+          "Chest pain",
+          "Fatigue",
+          "Muscle aches",
+          "Nausea or vomiting"
+        ],
+        "treatments": [
+          "Antibiotics to fight the underlying infection",
+          "Fever reducers (e.g., acetaminophen) to relieve symptoms",
+          "Cough medicine to reduce coughing",
+          "Oxygen therapy to help with breathing",
+          "Fluids and rest"
+        ]
+      },
+      {
+        "name": "Polycystic kidney disease",
+        "description": "Polycystic kidney disease is an inherited disorder in which clusters of cysts develop within the kidneys, eventually causing kidney failure.",
+        "symptoms": [
+          "Pain in the back or side",
+          "Blood in urine",
+          "Frequent urination",
+          "Kidney stones",
+          "High blood pressure",
+          "Abdominal swelling",
+          "Fatigue",
+          "Joint pain"
+        ],
+        "treatments": [
+          "Blood pressure medications to control high blood pressure",
+          "Antibiotics to treat infections",
+          "Surgery to remove large cysts or to transplant a new kidney",
+          "Dialysis to remove waste from the blood if kidneys fail"
+        ]
+      },
+      {
+        "name": "Polycystic ovary syndrome",
+        "description": "Polycystic ovary syndrome is a hormonal disorder that causes enlarged ovaries with small cysts on the outer edges, leading to infertility and other health problems.",
+        "symptoms": [
+          "Irregular periods",
+          "Heavy bleeding",
+          "Acne",
+          "Excess hair growth",
+          "Weight gain",
+          "Fatigue",
+          "Depression or mood swings"
+        ],
+        "treatments": [
+          "Birth control pills to regulate periods and decrease androgen levels",
+          "Anti-androgen medications to reduce excess hair growth and acne",
+          "Metformin to improve insulin resistance and regulate menstrual cycles",
+          "Fertility treatments (e.g., in vitro fertilization) for those trying to conceive"
+        ]
+      },
+      {
+        "name": "Prostate Cancer",
+        "description": "Prostate cancer is a type of cancer that develops in the prostate, a gland in the male reproductive system. It usually grows slowly and initially remains confined to the prostate gland, where it may not cause serious harm. However, in some cases, it can spread to other parts of the body and become more aggressive.",
+        "symptoms": [
+          "Frequent urination, especially at night",
+          "Difficulty starting or stopping urination",
+          "Weak or interrupted urine flow",
+          "Blood in urine or semen",
+          "Painful or burning urination",
+          "Painful ejaculation",
+          "Difficulty getting or maintaining an erection"
+        ],
+        "treatments": [
+          "Watchful waiting",
+          "Surgery",
+          "Radiation therapy",
+          "Cryotherapy",
+          "Hormone therapy",
+          "Chemotherapy"
+        ]
+      },
+      {
+        "name": "Psoriasis",
+        "description": "Psoriasis is a chronic skin condition that causes cells to build up rapidly on the surface of the skin. The extra skin cells form scales and red patches that are sometimes itchy and painful.",
+        "symptoms": [
+          "Red patches of skin covered with thick, silvery scales",
+          "Dry, cracked skin that may bleed",
+          "Itching or burning sensations"
+        ],
+        "treatments": [
+          "Topical creams and ointments",
+          "Light therapy",
+          "Oral medications"
+        ]
+      },
+      {
+        "name": "Pulmonary embolism",
+        "description": "Pulmonary embolism is a blockage in one of the pulmonary arteries in the lungs. The blockage is usually caused by a blood clot that travels to the lungs from another part of the body, most commonly the legs.",
+        "symptoms": [
+          "Sudden shortness of breath",
+          "Chest pain that gets worse with deep breathing or coughing",
+          "Coughing up blood"
+        ],
+        "treatments": [
+          "Blood thinners",
+          "Clot-dissolving medications",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Rheumatoid arthritis",
+        "description": "Rheumatoid arthritis is an autoimmune disorder that causes the body's immune system to attack the joints. This leads to inflammation and damage to the joints, which can cause pain, stiffness, and swelling.",
+        "symptoms": [
+          "Joint pain and stiffness",
+          "Swelling and tenderness in the joints",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+          "Disease-modifying antirheumatic drugs (DMARDs)",
+          "Biologic agents"
+        ]
+      },
+      {
+        "name": "Rosacea",
+        "description": "Rosacea is a chronic skin condition that causes redness, flushing, and sometimes small, red, pus-filled bumps on the face. It most commonly affects the nose, cheeks, forehead, and chin.",
+        "symptoms": [
+          "Redness on the cheeks, nose, chin or forehead",
+          "Small visible blood vessels on the face",
+          "Bumps or pimples on the face"
+        ],
+        "treatments": [
+          "Topical creams and gels",
+          "Oral antibiotics",
+          "Laser therapy"
+        ]
+      },
+      {
+        "name": "Sarcoidosis",
+        "description": "Sarcoidosis is a disease that causes inflammation in different parts of the body, most commonly the lungs, lymph nodes, skin, and eyes. The inflammation can cause damage to these organs and may cause symptoms such as coughing, shortness of breath, and skin rashes.",
+        "symptoms": [
+          "Shortness of breath",
+          "Coughing",
+          "Skin rashes or lesions"
+        ],
+        "treatments": [
+          "Corticosteroids",
+          "Immunosuppressive medications",
+          "Biologic agents"
+        ]
+      },
+      {
+        "name": "Scoliosis",
+        "description": "Scoliosis is a medical condition where the spine curves sideways. This can cause uneven shoulders, hips, or waist and can sometimes lead to discomfort or difficulty breathing.",
+        "symptoms": [
+          "Uneven shoulders",
+          "Uneven hips",
+          "Uneven waist",
+          "Back pain",
+          "Difficulty breathing"
+        ],
+        "treatments": [
+          "Bracing",
+          "Physical therapy",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Sinusitis",
+        "description": "Sinusitis is an inflammation or swelling of the tissue lining the sinuses, which can cause symptoms such as facial pain, pressure, or congestion.",
+        "symptoms": [
+          "Facial pain",
+          "Pressure in the face",
+          "Congestion",
+          "Nasal discharge",
+          "Cough",
+          "Headache"
+        ],
+        "treatments": [
+          "Nasal decongestants",
+          "Saline nasal irrigation",
+          "Antibiotics",
+          "Steroid nasal sprays"
+        ]
+      },
+      {
+        "name": "Spondylitis",
+        "description": "Spondylitis is a type of arthritis that affects the spine and can cause stiffness, pain, and reduced mobility.",
+        "symptoms": [
+          "Stiffness in the back or neck",
+          "Pain in the back or neck",
+          "Reduced mobility",
+          "Fatigue",
+          "Loss of appetite"
+        ],
+        "treatments": [
+          "Exercise",
+          "Medications",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Stroke",
+        "description": "A stroke occurs when blood flow to the brain is interrupted or reduced, which can cause brain cells to die. This can result in various symptoms, depending on which part of the brain is affected.",
+        "symptoms": [
+          "Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body",
+          "Sudden confusion or trouble speaking or understanding speech",
+          "Sudden trouble seeing in one or both eyes",
+          "Sudden trouble walking, dizziness, loss of balance or coordination",
+          "Sudden severe headache with no known cause"
+        ],
+        "treatments": [
+          "Clot-busting drugs",
+          "Aspirin or other antiplatelet drugs",
+          "Anticoagulants",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Systemic lupus erythematosus",
+        "description": "Systemic lupus erythematosus (SLE) is an autoimmune disease that can affect various parts of the body, including the skin, joints, kidneys, brain, and other organs.",
+        "symptoms": [
+          "Fatigue",
+          "Fever",
+          "Joint pain",
+          "Skin rashes",
+          "Chest pain",
+          "Shortness of breath",
+          "Headaches",
+          "Confusion",
+          "Memory loss"
+        ],
+        "treatments": [
+          "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+          "Antimalarial drugs",
+          "Corticosteroids",
+          "Immunosuppressants",
+          "Biologics"
+        ]
+      },
+      {
+        "name": "Tendinitis",
+        "description": "Tendinitis is a condition in which the tendons — the thick cords that attach muscles to bone — become inflamed or irritated.",
+        "symptoms": [
+          "Pain",
+          "Tenderness",
+          "Stiffness",
+          "Swelling",
+          "Weakness"
+        ],
+        "treatments": [
+          "Rest",
+          "Ice",
+          "Compression",
+          "Elevation",
+          "Physical therapy",
+          "Medications",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Thyroid disease",
+        "description": "Thyroid disease is a common problem that can cause symptoms due to over- or under-function of the thyroid gland.",
+        "symptoms": [
+          "Fatigue",
+          "Weight changes",
+          "Muscle weakness",
+          "Hair loss",
+          "Depression",
+          "Difficulty sleeping",
+          "Rapid heartbeat"
+        ],
+        "treatments": [
+          "Thyroid hormone replacement therapy",
+          "Anti-thyroid medications",
+          "Radioactive iodine",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Ulcerative colitis",
+        "description": "Ulcerative colitis is a chronic inflammatory bowel disease (IBD) that causes inflammation and sores (ulcers) in the lining of the large intestine.",
+        "symptoms": [
+          "Abdominal pain",
+          "Diarrhea",
+          "Rectal bleeding",
+          "Urgency to defecate",
+          "Weight loss",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Anti-inflammatory medications",
+          "Immunosuppressive medications",
+          "Biologic therapy",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Varicose veins",
+        "description": "Varicose veins are enlarged, twisted veins that are visible just under the surface of the skin. They usually occur in the legs, but can also form in other parts of the body.",
+        "symptoms": [
+          "Swelling",
+          "Aching pain",
+          "Heaviness",
+          "Burning or itching",
+          "Discoloration",
+          "Ulcers"
+        ],
+        "treatments": [
+          "Compression stockings",
+          "Sclerotherapy",
+          "Laser treatment",
+          "Endovenous ablation therapy",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Alzheimer's disease",
+        "description": "Alzheimer's disease is a progressive brain disorder that affects memory, thinking, and behavior. It is the most common cause of dementia in older adults.",
+        "symptoms": [
+          "Memory loss",
+          "Difficulty completing familiar tasks",
+          "Language problems",
+          "Disorientation",
+          "Mood swings",
+          "Personality changes",
+          "Loss of motivation"
+        ],
+        "treatments": [
+          "Medications",
+          "Non-drug treatments (e.g., cognitive stimulation therapy)",
+          "Supportive therapies",
+          "Clinical trials"
+        ]
+      },
+      {
+        "name": "Angina pectoris",
+        "description": "Angina pectoris is a condition that causes chest pain or discomfort. It occurs when the heart muscle doesn't get enough blood and oxygen due to narrowed or blocked coronary arteries.",
+        "symptoms": [
+          "Chest pain or discomfort",
+          "Pain or discomfort in the arms, neck, jaw, shoulder or back",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Lifestyle changes such as quitting smoking, eating a healthy diet and exercising regularly",
+          "Medications to relieve pain and improve blood flow to the heart",
+          "Medical procedures such as angioplasty or bypass surgery"
+        ]
+      },
+      {
+        "name": "Aortic stenosis",
+        "description": "Aortic stenosis is a condition that occurs when the aortic valve narrows, restricting blood flow from the heart to the rest of the body.",
+        "symptoms": [
+          "Shortness of breath",
+          "Chest pain or discomfort",
+          "Fainting or lightheadedness"
+        ],
+        "treatments": [
+          "Medications to manage symptoms",
+          "Balloon valvuloplasty to open the narrowed valve",
+          "Surgical valve replacement"
+        ]
+      },
+      {
+        "name": "Aortic valve regurgitation",
+        "description": "Aortic valve regurgitation is a condition that occurs when the aortic valve doesn't close properly, causing blood to leak back into the heart.",
+        "symptoms": [
+          "Shortness of breath",
+          "Fatigue",
+          "Swollen ankles or feet"
+        ],
+        "treatments": [
+          "Medications to manage symptoms",
+          "Surgical valve repair or replacement"
+        ]
+      },
+      {
+        "name": "Benign prostatic hyperplasia",
+        "description": "Benign prostatic hyperplasia is a condition that causes the prostate gland to enlarge, leading to urinary problems.",
+        "symptoms": [
+          "Frequent urination",
+          "Difficulty starting or stopping urination",
+          "Weak urine stream"
+        ],
+        "treatments": [
+          "Medications to relax the muscles of the prostate gland and improve urine flow",
+          "Minimally invasive procedures such as transurethral microwave therapy or laser therapy",
+          "Surgery to remove the prostate gland"
+        ]
+      },
+      {
+        "name": "Breast cancer",
+        "description": "Breast cancer is a type of cancer that forms in the cells of the breast.",
+        "symptoms": [
+          "A lump or thickening in the breast or underarm",
+          "Changes in the size or shape of the breast",
+          "Nipple discharge or retraction"
+        ],
+        "treatments": [
+          "Surgery to remove the cancerous tissue",
+          "Radiation therapy to destroy cancer cells",
+          "Chemotherapy or targeted therapy to kill cancer cells"
+        ]
+      },
+      {
+        "name": "Cardiomyopathy",
+        "description": "Cardiomyopathy is a disease that affects the heart muscle, making it harder for the heart to pump blood to the rest of the body.",
+        "symptoms": [
+          "Shortness of breath",
+          "Swelling of the legs, ankles, or feet",
+          "Fatigue",
+          "Irregular heartbeat"
+        ],
+        "treatments": [
+          "Lifestyle changes (e.g., diet, exercise)",
+          "Medications (e.g., ACE inhibitors, beta blockers)",
+          "Implanted devices (e.g., pacemakers, defibrillators)",
+          "Surgery (e.g., heart transplant)"
+        ]
+      },
+      {
+        "name": "Carotid Artery Disease",
+        "description": "Carotid artery disease occurs when the carotid arteries, which supply blood to the brain, become narrowed or blocked by plaque buildup.",
+        "symptoms": [
+          "Transient ischemic attacks (mini-strokes)",
+          "Weakness or numbness on one side of the body",
+          "Trouble speaking or understanding speech",
+          "Dizziness"
+        ],
+        "treatments": [
+          "Lifestyle changes (e.g., diet, exercise)",
+          "Medications (e.g., blood thinners, cholesterol-lowering drugs)",
+          "Endarterectomy (surgical removal of plaque from artery)",
+          "Angioplasty and stenting (using a balloon to widen the artery and placing a stent to hold it open)"
+        ]
+      },
+      {
+        "name": "Cerebral Aneurysm",
+        "description": "A cerebral aneurysm is a weakened, bulging area in the wall of an artery in the brain that can rupture and cause bleeding in the brain.",
+        "symptoms": [
+          "Severe headache",
+          "Nausea and vomiting",
+          "Stiff neck",
+          "Blurred or double vision"
+        ],
+        "treatments": [
+          "Observation and monitoring (for small, unruptured aneurysms)",
+          "Endovascular coiling (placing coils in the aneurysm to block blood flow)",
+          "Clipping (placing a clip on the base of the aneurysm to prevent it from rupturing)",
+          "Surgical removal of the aneurysm"
+        ]
+      },
+      {
+        "name": "Cervical Cancer",
+        "description": "Cervical cancer is a type of cancer that occurs in the cells of the cervix, which is the lower part of the uterus that connects to the vagina.",
+        "symptoms": [
+          "Abnormal vaginal bleeding",
+          "Pain during sex",
+          "Pelvic pain",
+          "Unusual vaginal discharge"
+        ],
+        "treatments": [
+          "Surgery (e.g., hysterectomy, removal of lymph nodes)",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Targeted therapy"
+        ]
+      },
+      {
+        "name": "Chronic Obstructive Pulmonary Disease",
+        "description": "Chronic obstructive pulmonary disease (COPD) is a chronic lung disease characterized by obstruction of airflow from the lungs, making it difficult to breathe.",
+        "symptoms": [
+          "Shortness of breath, especially during physical activities",
+          "Wheezing",
+          "Chest tightness",
+          "Chronic cough",
+          "Frequent respiratory infections",
+          "Lack of energy",
+          "Unintended weight loss"
+        ],
+        "treatments": [
+          "Smoking cessation",
+          "Bronchodilators to relax the muscles around the airways",
+          "Inhaled corticosteroids to reduce inflammation",
+          "Pulmonary rehabilitation to improve lung function and overall fitness",
+          "Supplemental oxygen therapy",
+          "Surgery in severe cases"
+        ]
+      },
+      {
+        "name": "Coronary artery disease",
+        "description": "Coronary artery disease is a condition in which the arteries that supply blood to the heart become narrowed or blocked due to plaque buildup.",
+        "symptoms": [
+          "Chest pain or discomfort",
+          "Shortness of breath",
+          "Heart palpitations",
+          "Nausea",
+          "Sweating"
+        ],
+        "treatments": [
+          "Lifestyle changes such as a healthy diet and exercise",
+          "Medications such as aspirin and statins",
+          "Procedures such as angioplasty or bypass surgery"
+        ]
+      },
+      {
+        "name": "Deep vein thrombosis",
+        "description": "Deep vein thrombosis is a blood clot that forms in a vein deep inside the body, usually in the leg.",
+        "symptoms": [
+          "Swelling in the affected leg",
+          "Pain or tenderness in the affected leg",
+          "Warmth in the skin over the affected leg",
+          "Red or discolored skin over the affected leg",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Anticoagulant medications to prevent the clot from getting bigger",
+          "Thrombolytic therapy to dissolve the clot",
+          "Compression stockings or devices to help prevent swelling and blood clots"
+        ]
+      },
+      {
+        "name": "Diverticulitis",
+        "description": "Diverticulitis is a condition in which small pouches that form in the wall of the colon become infected or inflamed.",
+        "symptoms": [
+          "Abdominal pain, usually on the left side",
+          "Fever",
+          "Nausea",
+          "Vomiting",
+          "Constipation or diarrhea"
+        ],
+        "treatments": [
+          "Antibiotics to treat the infection",
+          "Liquid diet or low-fiber diet to help the colon rest",
+          "Surgery to remove the affected part of the colon in severe cases"
+        ]
+      },
+      {
+        "name": "Endocarditis",
+        "description": "Endocarditis is an infection of the lining of the heart or heart valves.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Shortness of breath",
+          "Swelling in the legs, feet, or abdomen",
+          "Heart murmur"
+        ],
+        "treatments": [
+          "Antibiotics to treat the infection",
+          "Surgery to repair or replace damaged heart valves",
+          "Anticoagulant medications to prevent blood clots"
+        ]
+      },
+      {
+        "name": "Esophageal cancer",
+        "description": "Esophageal cancer is a type of cancer that begins in the cells that line the esophagus.",
+        "symptoms": [
+          "Difficulty swallowing",
+          "Unintentional weight loss",
+          "Chest pain or discomfort",
+          "Heartburn or indigestion",
+          "Chronic cough"
+        ],
+        "treatments": [
+          "Surgery to remove the cancer",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Palliative care to manage symptoms in advanced cases"
+        ]
+      },
+      {
+        "name": "Gallbladder cancer",
+        "description": "Gallbladder cancer is a cancerous growth in the gallbladder, a small organ located beneath the liver that stores bile.",
+        "symptoms": [
+          "Abdominal pain",
+          "Jaundice",
+          "Nausea and vomiting",
+          "Loss of appetite",
+          "Weight loss"
+        ],
+        "treatments": [
+          "Surgery to remove the gallbladder",
+          "Chemotherapy",
+          "Radiation therapy"
+        ]
+      },
+      {
+        "name": "Gastroesophageal reflux disease",
+        "description": "Gastroesophageal reflux disease (GERD) is a chronic condition in which acid reflux occurs more than twice a week, causing inflammation and irritation of the esophagus.",
+        "symptoms": [
+          "Heartburn",
+          "Regurgitation",
+          "Difficulty swallowing",
+          "Chest pain"
+        ],
+        "treatments": [
+          "Antacids",
+          "Proton pump inhibitors",
+          "H2 blockers",
+          "Lifestyle changes (e.g., weight loss, avoiding trigger foods)"
+        ]
+      },
+      {
+        "name": "Glomerulonephritis",
+        "description": "Glomerulonephritis is a type of kidney disease in which the tiny filters in the kidneys become inflamed and damaged, leading to kidney failure.",
+        "symptoms": [
+          "Blood in the urine",
+          "Foamy urine",
+          "Swelling in the face, hands, or feet",
+          "High blood pressure"
+        ],
+        "treatments": [
+          "Medications to control blood pressure and reduce inflammation",
+          "Dialysis",
+          "Kidney transplant"
+        ]
+      },
+      {
+        "name": "Heart failure",
+        "description": "Heart failure is a chronic condition in which the heart is unable to pump enough blood to meet the body's needs.",
+        "symptoms": [
+          "Shortness of breath",
+          "Fatigue",
+          "Swelling in the legs, ankles, or feet",
+          "Coughing or wheezing",
+          "Rapid or irregular heartbeat"
+        ],
+        "treatments": [
+          "Medications to improve heart function and control symptoms",
+          "Lifestyle changes (e.g., reducing salt intake, exercising regularly)",
+          "Surgery (e.g., implanting a pacemaker, heart transplant)"
+        ]
+      },
+      {
+        "name": "Hodgkin's Lymphoma",
+        "description": "Hodgkin's lymphoma is a cancer of the lymphatic system, which is part of the body's immune system.",
+        "symptoms": [
+          "Enlarged lymph nodes",
+          "Fever",
+          "Night sweats",
+          "Unexplained weight loss"
+        ],
+        "treatments": [
+          "Chemotherapy",
+          "Radiation therapy",
+          "Stem cell transplant"
+        ]
+      },
+      {
+        "name": "Hyperthyroidism",
+        "description": "Hyperthyroidism is a condition in which the thyroid gland produces too much thyroid hormone.",
+        "symptoms": [
+          "Weight loss",
+          "Increased appetite",
+          "Nervousness or anxiety",
+          "Tremors",
+          "Sweating",
+          "Heat sensitivity",
+          "Fatigue",
+          "Muscle weakness",
+          "Difficulty sleeping"
+        ],
+        "treatments": [
+          "Antithyroid medication",
+          "Radioactive iodine therapy",
+          "Beta blockers"
+        ]
+      },
+      {
+        "name": "Hypothyroidism",
+        "description": "Hypothyroidism is a condition in which the thyroid gland does not produce enough thyroid hormone.",
+        "symptoms": [
+          "Fatigue",
+          "Weight gain",
+          "Cold intolerance",
+          "Dry skin",
+          "Hair loss",
+          "Constipation",
+          "Depression",
+          "Muscle weakness",
+          "Joint pain"
+        ],
+        "treatments": [
+          "Levothyroxine (thyroid hormone replacement therapy)"
+        ]
+      },
+      {
+        "name": "Infectious Mononucleosis",
+        "description": "Infectious mononucleosis, also known as mono or glandular fever, is a viral infection that causes fever, sore throat, and swollen lymph nodes.",
+        "symptoms": [
+          "Fatigue",
+          "Fever",
+          "Sore throat",
+          "Swollen lymph nodes",
+          "Headache",
+          "Muscle aches",
+          "Rash"
+        ],
+        "treatments": [
+          "Rest",
+          "Pain relievers",
+          "Drinking fluids",
+          "Steroids (in severe cases)"
+        ]
+      },
+      {
+        "name": "Influenza",
+        "description": "Influenza, commonly known as the flu, is a viral infection that affects the respiratory system.",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Sore throat",
+          "Runny or stuffy nose",
+          "Body aches",
+          "Headache",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Rest",
+          "Drinking fluids",
+          "Pain relievers",
+          "Antiviral medication (in some cases)"
+        ]
+      },
+      {
+        "name": "Intestinal obstruction",
+        "description": "Intestinal obstruction occurs when the small or large intestine is partially or completely blocked, leading to abdominal pain, bloating, vomiting, and constipation.",
+        "symptoms": [
+          "Abdominal pain and cramping",
+          "Bloating",
+          "Vomiting",
+          "Constipation"
+        ],
+        "treatments": [
+          "Surgery to remove the obstruction",
+          "Medications to relieve symptoms",
+          "Intravenous fluids and electrolytes"
+        ]
+      },
+      {
+        "name": "Ischemic heart disease",
+        "description": "Ischemic heart disease is a condition where the heart muscle is not getting enough blood and oxygen due to a narrowing or blockage of the coronary arteries.",
+        "symptoms": [
+          "Chest pain or discomfort",
+          "Shortness of breath",
+          "Fatigue",
+          "Nausea"
+        ],
+        "treatments": [
+          "Lifestyle changes (e.g. exercise, healthy diet)",
+          "Medications to lower blood pressure and cholesterol",
+          "Angioplasty or coronary artery bypass surgery"
+        ]
+      },
+      {
+        "name": "Leukemia",
+        "description": "Leukemia is a cancer of the blood cells, where abnormal white blood cells are produced in the bone marrow and interfere with the normal function of red blood cells and platelets.",
+        "symptoms": [
+          "Fatigue",
+          "Fever",
+          "Frequent infections",
+          "Bruising or bleeding easily"
+        ],
+        "treatments": [
+          "Chemotherapy",
+          "Radiation therapy",
+          "Stem cell transplant"
+        ]
+      },
+      {
+        "name": "Liver cancer",
+        "description": "Liver cancer is a type of cancer that originates in the liver cells and can spread to other parts of the body.",
+        "symptoms": [
+          "Abdominal pain and swelling",
+          "Weight loss",
+          "Loss of appetite",
+          "Jaundice"
+        ],
+        "treatments": [
+          "Surgery to remove the cancer",
+          "Chemotherapy",
+          "Liver transplant"
+        ]
+      },
+      {
+        "name": "Lung cancer",
+        "description": "Lung cancer is a type of cancer that starts in the lungs and can spread to other parts of the body. It is often caused by smoking or exposure to harmful substances like radon or asbestos.",
+        "symptoms": [
+          "Coughing up blood",
+          "Chest pain",
+          "Shortness of breath",
+          "Hoarseness"
+        ],
+        "treatments": [
+          "Surgery to remove the cancer",
+          "Chemotherapy",
+          "Radiation therapy"
+        ]
+      },
+      {
+        "name": "Mitral stenosis",
+        "description": "Mitral stenosis is a narrowing of the heart's mitral valve, which separates the upper and lower chambers of the left side of the heart. This narrowing restricts blood flow from the left atrium to the left ventricle, which can lead to a variety of symptoms and complications.",
+        "symptoms": [
+          "Shortness of breath",
+          "Fatigue",
+          "Heart palpitations",
+          "Chest pain",
+          "Swelling in the legs or feet",
+          "Coughing up blood"
+        ],
+        "treatments": [
+          "Medications to reduce fluid buildup",
+          "Surgical repair or replacement of the mitral valve",
+          "Lifestyle changes, such as maintaining a healthy weight and quitting smoking"
+        ]
+      },
+      {
+        "name": "Mitral valve regurgitation",
+        "description": "Mitral valve regurgitation is a condition in which the heart's mitral valve doesn't close tightly, allowing blood to flow backward into the heart's upper chamber. This can lead to a variety of symptoms and complications.",
+        "symptoms": [
+          "Shortness of breath",
+          "Fatigue",
+          "Heart palpitations",
+          "Swelling in the legs or feet",
+          "Coughing up blood"
+        ],
+        "treatments": [
+          "Medications to control blood pressure and reduce fluid buildup",
+          "Surgical repair or replacement of the mitral valve",
+          "Lifestyle changes, such as maintaining a healthy weight and quitting smoking"
+        ]
+      },
+      {
+        "name": "Myeloma",
+        "description": "Multiple myeloma is a type of cancer that affects plasma cells, a type of white blood cell. The cancerous plasma cells can build up in the bone marrow and form tumors in bones throughout the body. Myeloma can cause a variety of symptoms and complications.",
+        "symptoms": [
+          "Bone pain",
+          "Fatigue",
+          "Increased susceptibility to infections",
+          "Kidney damage",
+          "Nausea and vomiting",
+          "Unexplained weight loss"
+        ],
+        "treatments": [
+          "Chemotherapy",
+          "Radiation therapy",
+          "Stem cell transplant",
+          "Medications to strengthen bones",
+          "Pain management"
+        ]
+      },
+      {
+        "name": "Non-Hodgkin's lymphoma",
+        "description": "Non-Hodgkin's lymphoma is a type of cancer that affects the lymphatic system, which is a part of the body's immune system. The cancerous cells can accumulate in the lymph nodes, bone marrow, and other organs, leading to a variety of symptoms and complications.",
+        "symptoms": [
+          "Swollen lymph nodes",
+          "Fatigue",
+          "Night sweats",
+          "Fever",
+          "Unexplained weight loss",
+          "Chest pain or pressure"
+        ],
+        "treatments": [
+          "Chemotherapy",
+          "Radiation therapy",
+          "Immunotherapy",
+          "Stem cell transplant",
+          "Targeted therapy"
+        ]
+      },
+      {
+        "name": "Pancreatic Cancer",
+        "description": "Pancreatic cancer is a type of cancer that begins in the cells of the pancreas. It can spread quickly and is often difficult to detect early. Pancreatic cancer is the fourth leading cause of cancer death in the United States.",
+        "symptoms": [
+          "Abdominal pain",
+          "Loss of appetite",
+          "Weight loss",
+          "Jaundice",
+          "Nausea",
+          "Vomiting",
+          "New-onset diabetes",
+          "Fatigue",
+          "Depression"
+        ],
+        "treatments": [
+          "Surgery",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Targeted therapy"
+        ]
+      },
+      {
+        "name": "Peptic ulcer disease",
+        "description": "Peptic ulcer disease (PUD) is a condition where there is an erosion in the lining of the stomach or the first part of the small intestine.",
+        "symptoms": [
+          "Abdominal pain",
+          "Bloating",
+          "Nausea",
+          "Vomiting",
+          "Loss of appetite"
+        ],
+        "treatments": [
+          "Antibiotics to eliminate H. pylori bacteria",
+          "Proton pump inhibitors to reduce stomach acid production",
+          "H2 blockers to reduce stomach acid production",
+          "Antacids to neutralize stomach acid"
+        ]
+      },
+      {
+        "name": "Peripheral arterial disease",
+        "description": "Peripheral arterial disease (PAD) is a condition where there is a narrowing of the arteries that supply blood to the legs and feet.",
+        "symptoms": [
+          "Leg pain",
+          "Numbness or weakness in legs",
+          "Coldness in lower leg or foot",
+          "Sores on toes, feet or legs that won't heal",
+          "Change in color of legs"
+        ],
+        "treatments": [
+          "Smoking cessation",
+          "Exercise and physical therapy",
+          "Medications to manage symptoms and prevent blood clots",
+          "Angioplasty or stenting to open up blocked arteries",
+          "Surgery to bypass blocked arteries"
+        ]
+      },
+      {
+        "name": "Pulmonary fibrosis",
+        "description": "Pulmonary fibrosis (PF) is a condition where there is scarring or thickening of the tissue in the lungs, making it difficult for oxygen to pass through.",
+        "symptoms": [
+          "Shortness of breath",
+          "Dry cough",
+          "Fatigue",
+          "Unexplained weight loss",
+          "Muscle and joint pain"
+        ],
+        "treatments": [
+          "Medications to reduce inflammation",
+          "Oxygen therapy to increase oxygen levels",
+          "Pulmonary rehabilitation to improve lung function",
+          "Lung transplant in severe cases"
+        ]
+      },
+      {
+        "name": "Renal failure",
+        "description": "Renal failure is a condition where the kidneys are no longer able to filter waste products from the blood.",
+        "symptoms": [
+          "Swelling in hands, feet, and ankles",
+          "Fatigue",
+          "Nausea",
+          "Decreased appetite",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Dialysis to filter blood",
+          "Kidney transplant",
+          "Medications to control underlying causes",
+          "Dietary changes to manage electrolyte and fluid levels"
+        ]
+      },
+      {
+        "name": "Amyotrophic lateral sclerosis (ALS)",
+        "description": "A progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord, leading to muscle weakness and eventual paralysis.",
+        "symptoms": [
+          "Muscle weakness and stiffness",
+          "Difficulty speaking and swallowing",
+          "Muscle twitching and cramping",
+          "Gradual loss of mobility",
+          "Difficulty breathing"
+        ],
+        "treatments": [
+          "Medications to manage symptoms",
+          "Physical therapy and occupational therapy",
+          "Assistive devices to help with mobility and communication"
+        ]
+      },
+      {
+        "name": "Anemia",
+        "description": "A condition in which the body lacks enough red blood cells or hemoglobin, leading to reduced oxygen supply to tissues and organs.",
+        "symptoms": [
+          "Fatigue and weakness",
+          "Shortness of breath",
+          "Dizziness",
+          "Headache",
+          "Pale skin",
+          "Irregular heartbeat"
+        ],
+        "treatments": [
+          "Supplements to increase iron or vitamin levels",
+          "Blood transfusions",
+          "Medications to stimulate red blood cell production"
+        ]
+      },
+      {
+        "name": "Anxiety disorders",
+        "description": "A group of mental health disorders characterized by excessive worry, fear, or nervousness that interferes with daily activities.",
+        "symptoms": [
+          "Excessive worrying",
+          "Feeling restless or on edge",
+          "Irritability",
+          "Difficulty concentrating",
+          "Muscle tension",
+          "Sleep problems",
+          "Panic attacks"
+        ],
+        "treatments": [
+          "Therapy to learn coping strategies",
+          "Medications to manage symptoms",
+          "Lifestyle changes to promote relaxation and stress management"
+        ]
+      },
+      {
+        "name": "Autism spectrum disorder",
+        "description": "A neurodevelopmental disorder characterized by social, communication, and behavioral challenges that can vary widely in severity.",
+        "symptoms": [
+          "Difficulty with social interactions",
+          "Delayed or absent language development",
+          "Repetitive behaviors or routines",
+          "Narrow interests",
+          "Sensory sensitivities"
+        ],
+        "treatments": [
+          "Behavioral therapy to teach social and communication skills",
+          "Medications to manage co-occurring conditions",
+          "Lifestyle changes to support overall health and well-being"
+        ]
+      },
+      {
+        "name": "Autoimmune Disorders",
+        "description": "Autoimmune disorders refer to a group of diseases in which the immune system attacks healthy cells in the body by mistake.",
+        "symptoms": [
+          "Fatigue",
+          "Joint pain and swelling",
+          "Skin problems",
+          "Abdominal pain",
+          "Digestive problems",
+          "Fever",
+          "Swollen glands",
+          "Muscle pain"
+        ],
+        "treatments": [
+          "Anti-inflammatory medications",
+          "Immunosuppressant drugs",
+          "Corticosteroids",
+          "Physical therapy",
+          "Surgery (in severe cases)"
+        ]
+      },
+      {
+        "name": "Bipolar Disorder",
+        "description": "Bipolar disorder is a mental illness characterized by extreme mood swings, including episodes of mania and depression.",
+        "symptoms": [
+          "Mood swings",
+          "Mania (extreme high)",
+          "Depression (extreme low)",
+          "Fatigue",
+          "Insomnia",
+          "Irritability",
+          "Difficulty concentrating",
+          "Impaired judgment",
+          "Risk-taking behavior"
+        ],
+        "treatments": [
+          "Mood stabilizing medications",
+          "Antidepressants",
+          "Antipsychotic medications",
+          "Psychotherapy",
+          "Electroconvulsive therapy (ECT) (in severe cases)"
+        ]
+      },
+      {
+        "name": "Blood Clotting Disorders",
+        "description": "Blood clotting disorders refer to a group of conditions in which the blood clots too easily or doesn't clot enough, leading to an increased risk of bleeding or clotting.",
+        "symptoms": [
+          "Abnormal bleeding",
+          "Bruising",
+          "Blood in urine or stool",
+          "Swelling",
+          "Pain",
+          "Redness",
+          "Warmth in the affected area"
+        ],
+        "treatments": [
+          "Blood thinners",
+          "Anticoagulants",
+          "Platelet inhibitors",
+          "Iron supplements (in some cases)"
+        ]
+      },
+      {
+        "name": "Brain Tumors",
+        "description": "Brain tumors refer to abnormal growths of cells in the brain that can be cancerous (malignant) or non-cancerous (benign).",
+        "symptoms": [
+          "Headaches",
+          "Seizures",
+          "Nausea and vomiting",
+          "Memory problems",
+          "Changes in vision, hearing, or speech",
+          "Difficulty walking or balancing",
+          "Weakness or numbness on one side of the body"
+        ],
+        "treatments": [
+          "Surgery",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Steroids",
+          "Anti-seizure medications"
+        ]
+      },
+      {
+        "name": "Cerebral Palsy",
+        "description": "Cerebral palsy is a group of disorders that affect movement and muscle tone or posture. It is caused by damage that occurs to the immature brain as it develops, most often before birth.",
+        "symptoms": [
+          "Muscle stiffness",
+          "Muscle weakness",
+          "Lack of muscle coordination",
+          "Tremors",
+          "Difficulty with fine motor skills",
+          "Difficulty with gross motor skills",
+          "Difficulty with swallowing or speaking"
+        ],
+        "treatments": [
+          "Physical therapy",
+          "Occupational therapy",
+          "Speech therapy",
+          "Medications for muscle spasticity or seizures",
+          "Surgery in some cases"
+        ]
+      },
+      {
+        "name": "Chronic kidney disease",
+        "description": "Chronic kidney disease (CKD) is a condition characterized by a gradual loss of kidney function over time. It can lead to kidney failure if left untreated.",
+        "symptoms": [
+          "Fatigue",
+          "Weakness",
+          "Loss of appetite",
+          "Swelling in the legs",
+          "Difficulty sleeping",
+          "Changes in urination (e.g., frequency, color, or smell)"
+        ],
+        "treatments": [
+          "Medications to control blood pressure and cholesterol levels",
+          "Dietary changes to manage potassium, sodium, and protein intake",
+          "Dialysis or kidney transplant in severe cases"
+        ]
+      },
+      {
+        "name": "Colorectal cancer",
+        "description": "Colorectal cancer is a type of cancer that affects the colon and/or rectum. It often starts as a polyp, which can eventually become cancerous if left untreated.",
+        "symptoms": [
+          "Abdominal pain",
+          "Blood in the stool",
+          "Changes in bowel habits (e.g., diarrhea or constipation)",
+          "Unintended weight loss",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Surgery to remove the cancerous tissue",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Immunotherapy"
+        ]
+      },
+      {
+        "name": "Congenital heart defects",
+        "description": "Congenital heart defects are abnormalities in the heart's structure that are present at birth. They can affect the heart's valves, chambers, or blood vessels.",
+        "symptoms": [
+          "Blue or gray skin color",
+          "Shortness of breath",
+          "Fatigue",
+          "Swelling in the legs, abdomen, or areas around the eyes",
+          "Delayed growth and development (in infants and children)"
+        ],
+        "treatments": [
+          "Surgery to repair the heart defect",
+          "Medications to control symptoms",
+          "Heart transplant in severe cases"
+        ]
+      },
+      {
+        "name": "Depression",
+        "description": "Depression is a mood disorder that can affect a person's thoughts, feelings, and behaviors. It can lead to feelings of sadness, hopelessness, and loss of interest in daily activities.",
+        "symptoms": [
+          "Persistent feelings of sadness, anxiety, or emptiness",
+          "Loss of interest in activities that were once enjoyable",
+          "Difficulty sleeping or oversleeping",
+          "Changes in appetite or weight",
+          "Fatigue",
+          "Difficulty concentrating or making decisions"
+        ],
+        "treatments": [
+          "Antidepressant medications",
+          "Psychotherapy",
+          "Brain stimulation therapies (e.g., electroconvulsive therapy or transcranial magnetic stimulation)"
+        ]
+      },
+      {
+        "name": "Down Syndrome",
+        "description": "Down Syndrome is a genetic disorder that causes developmental and intellectual delays, as well as physical characteristics such as low muscle tone, upward slanting eyes, and a flat nasal bridge.",
+        "symptoms": [
+          "Intellectual disability",
+          "Delayed developmental milestones",
+          "Hypotonia (low muscle tone)",
+          "Upward slanting eyes",
+          "Flat nasal bridge",
+          "Short stature",
+          "Heart defects"
+        ],
+        "treatments": [
+          "Early intervention and special education",
+          "Speech and physical therapy",
+          "Treatment of associated health issues"
+        ]
+      },
+      {
+        "name": "Eczema",
+        "description": "Eczema is a chronic skin condition characterized by itchy, inflamed patches of skin. The cause of eczema is unknown, but it is thought to be related to an overactive immune system and a defective skin barrier.",
+        "symptoms": [
+          "Itchy, red, and dry skin",
+          "Thickened, cracked, or scaly skin",
+          "Small bumps that may leak fluid",
+          "Sensitive skin",
+          "Discoloration of the skin"
+        ],
+        "treatments": [
+          "Moisturizers and topical steroids",
+          "Avoiding triggers (such as certain fabrics, soaps, or foods)",
+          "Antihistamines for itching",
+          "Immunosuppressants for severe cases"
+        ]
+      },
+      {
+        "name": "Erectile dysfunction",
+        "description": "Erectile dysfunction is the inability to get or maintain an erection firm enough for sexual intercourse.",
+        "symptoms": [
+          "Difficulty getting an erection",
+          "Difficulty maintaining an erection",
+          "Reduced sexual desire"
+        ],
+        "treatments": [
+          "Oral medications such as sildenafil (Viagra), tadalafil (Cialis), or vardenafil (Levitra)",
+          "Injections into the penis",
+          "Penile implants"
+        ]
+      },
+      {
+        "name": "Graves' disease",
+        "description": "Graves' disease is an autoimmune disorder that causes hyperthyroidism, or overactive thyroid.",
+        "symptoms": [
+          "Anxiety and irritability",
+          "Weight loss",
+          "Rapid or irregular heartbeat"
+        ],
+        "treatments": [
+          "Anti-thyroid medication such as methimazole or propylthiouracil",
+          "Radioactive iodine therapy",
+          "Surgery to remove the thyroid gland"
+        ]
+      },
+      {
+        "name": "Hashimoto's thyroiditis",
+        "description": "Hashimoto's thyroiditis is an autoimmune disorder that causes hypothyroidism, or underactive thyroid.",
+        "symptoms": [
+          "Fatigue and sluggishness",
+          "Weight gain",
+          "Depression"
+        ],
+        "treatments": [
+          "Synthetic thyroid hormone replacement therapy",
+          "Lifestyle changes such as a healthy diet and exercise",
+          "Avoiding certain foods such as soy and high-fiber foods"
+        ]
+      },
+      {
+        "name": "Hearing loss",
+        "description": "Hearing loss is the partial or total inability to hear sounds.",
+        "symptoms": [
+          "Difficulty hearing conversations",
+          "Muffling of speech and other sounds",
+          "Ringing in the ears"
+        ],
+        "treatments": [
+          "Hearing aids",
+          "Cochlear implants",
+          "Assistive listening devices"
+        ]
+      },
+      {
+        "name": "Hemophilia",
+        "description": "Hemophilia is a genetic disorder that affects the body's ability to clot blood, leading to excessive bleeding and easy bruising.",
+        "symptoms": [
+          "Excessive bleeding",
+          "Frequent nosebleeds",
+          "Blood in the urine or stool"
+        ],
+        "treatments": [
+          "Replacement therapy with clotting factors",
+          "Desmopressin to increase the levels of clotting factors",
+          "Gene therapy"
+        ]
+      },
+      {
+        "name": "High blood pressure (hypertension)",
+        "description": "High blood pressure is a common condition in which the force of blood against your artery walls is consistently too high, which can eventually cause health problems, such as heart disease.",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Nosebleeds",
+          "Flushed face",
+          "Dizziness",
+          "Chest pain",
+          "Visual changes"
+        ],
+        "treatments": [
+          "Lifestyle changes (e.g., healthy diet, regular exercise, stress management)",
+          "Medications (e.g., ACE inhibitors, diuretics, beta blockers)",
+          "Monitoring blood pressure regularly"
+        ]
+      },
+      {
+        "name": "High cholesterol",
+        "description": "High cholesterol is a condition in which you have too much cholesterol — a waxy, fat-like substance — in your blood. High cholesterol can increase your risk of heart disease and other health problems.",
+        "symptoms": [
+          "None (usually asymptomatic)",
+          "Yellowish patches around the eyes",
+          "Xanthomas (fatty deposits) on the elbows, knees, and tendons"
+        ],
+        "treatments": [
+          "Lifestyle changes (e.g., healthy diet, regular exercise, quitting smoking)",
+          "Medications (e.g., statins, bile acid sequestrants, niacin)",
+          "Monitoring cholesterol levels regularly"
+        ]
+      },
+      {
+        "name": "Huntington's disease",
+        "description": "Huntington's disease is a genetic disorder that causes the progressive breakdown of nerve cells in the brain, which leads to mental and physical disabilities.",
+        "symptoms": [
+          "Difficulty concentrating and remembering things",
+          "Depression and anxiety",
+          "Uncontrolled movements (chorea)",
+          "Difficulty with coordination and balance",
+          "Difficulty with speech and swallowing"
+        ],
+        "treatments": [
+          "Medications to control movement and psychiatric symptoms",
+          "Physical therapy to maintain mobility and prevent falls",
+          "Speech therapy to improve communication and swallowing"
+        ]
+      },
+      {
+        "name": "Juvenile idiopathic arthritis",
+        "description": "Juvenile idiopathic arthritis is a type of arthritis that affects children under the age of 16. It causes joint pain, swelling, stiffness, and reduced mobility.",
+        "symptoms": [
+          "Joint pain and swelling",
+          "Stiffness, especially in the morning",
+          "Limping",
+          "High fever",
+          "Eye inflammation",
+          "Rash"
+        ],
+        "treatments": [
+          "Medications to reduce inflammation and pain",
+          "Physical therapy to maintain joint mobility and strength",
+          "Occupational therapy to improve daily activities and quality of life"
+        ]
+      },
+      {
+        "name": "Lou Gehrig's disease",
+        "description": "Lou Gehrig's disease, also known as amyotrophic lateral sclerosis (ALS), is a progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord, leading to muscle weakness, paralysis, and eventually respiratory failure.",
+        "symptoms": [
+          "Muscle weakness in hands, arms, legs or feet",
+          "Difficulty speaking, swallowing, or breathing",
+          "Muscle cramps and twitching"
+        ],
+        "treatments": [
+          "Riluzole (Rilutek)",
+          "Edaravone (Radicava)",
+          "Physical therapy and occupational therapy",
+          "Breathing support"
+        ]
+      },
+      {
+        "name": "Multiple myeloma",
+        "description": "Multiple myeloma is a type of cancer that affects plasma cells, which are white blood cells that produce antibodies to help fight infections. In multiple myeloma, abnormal plasma cells accumulate in the bone marrow and can crowd out healthy blood cells.",
+        "symptoms": [
+          "Bone pain, especially in the back or ribs",
+          "Weakness or fatigue",
+          "Frequent infections",
+          "Nausea or vomiting",
+          "Constipation"
+        ],
+        "treatments": [
+          "Chemotherapy",
+          "Stem cell transplant",
+          "Radiation therapy",
+          "Targeted therapy",
+          "Immunotherapy"
+        ]
+      },
+      {
+        "name": "Muscular dystrophy",
+        "description": "Muscular dystrophy is a group of genetic disorders that cause progressive weakness and degeneration of the muscles. Different types of muscular dystrophy have different patterns of inheritance and affect different muscles in the body.",
+        "symptoms": [
+          "Muscle weakness",
+          "Frequent falls",
+          "Difficulty walking",
+          "Muscle stiffness or rigidity",
+          "Difficulty breathing"
+        ],
+        "treatments": [
+          "Physical therapy",
+          "Respiratory therapy",
+          "Orthopedic devices (e.g., braces, wheelchairs)",
+          "Medications to improve muscle strength or delay progression of the disease"
+        ]
+      },
+      {
+        "name": "Myasthenia gravis",
+        "description": "Myasthenia gravis is a neuromuscular disorder that causes muscle weakness and fatigue. It occurs when the immune system attacks the receptors that allow nerve impulses to reach the muscles, leading to difficulty controlling the affected muscles.",
+        "symptoms": [
+          "Weakness in the muscles that control eye movement",
+          "Double vision",
+          "Difficulty speaking or swallowing",
+          "Weakness in the arms, legs, or neck",
+          "Difficulty breathing"
+        ],
+        "treatments": [
+          "Medications that suppress the immune system",
+          "Medications that improve nerve function or increase muscle strength",
+          "Plasmapheresis (a procedure that removes harmful antibodies from the blood)",
+          "Thymectomy (surgical removal of the thymus gland, which plays a role in the immune system)"
+        ]
+      },
+      {
+        "name": "Narcolepsy",
+        "description": "Narcolepsy is a neurological disorder that affects the sleep-wake cycle. It causes sudden and uncontrollable sleepiness during the day, as well as other symptoms such as cataplexy (loss of muscle control during strong emotions) and hallucinations during sleep or wakefulness.",
+        "symptoms": [
+          "Excessive daytime sleepiness",
+          "Sudden loss of muscle control (cataplexy)",
+          "Sleep paralysis (inability to move or speak when falling asleep or waking up)",
+          "Hallucinations during sleep or wakefulness",
+          "Disrupted nighttime sleep"
+        ],
+        "treatments": [
+          "Stimulant medications to promote wakefulness",
+          "Sodium oxybate (a medication that improves nighttime sleep and reduces daytime sleepiness)",
+          "Antidepressants or other medications to control cataplexy or hallucinations",
+          "Lifestyle changes to improve sleep hygiene (e.g., avoiding caffeine and alcohol, establishing a regular sleep schedule)"
+        ]
+      },
+      {
+        "name": "Nonalcoholic Fatty Liver Disease (NAFLD)",
+        "description": "Nonalcoholic fatty liver disease is a condition in which excess fat is stored in the liver. It is not caused by alcohol abuse, and can range from simple fat accumulation to inflammation and cirrhosis.",
+        "symptoms": [
+          "Fatigue",
+          "Pain or discomfort in the upper right abdomen",
+          "Swelling in the abdomen",
+          "Elevated liver enzymes",
+          "Insulin resistance and high blood sugar"
+        ],
+        "treatments": [
+          "Lifestyle changes such as weight loss, exercise, and a healthy diet",
+          "Control of underlying conditions such as diabetes and high cholesterol",
+          "Medications such as vitamin E, pioglitazone, and ursodeoxycholic acid"
+        ]
+      },
+      {
+        "name": "Obesity",
+        "description": "Obesity is a medical condition in which excess body fat has accumulated to the extent that it may have an adverse effect on health. It is a chronic disease that can lead to many other health problems.",
+        "symptoms": [
+          "Increased body weight",
+          "Difficulty moving",
+          "Shortness of breath",
+          "Fatigue",
+          "Joint pain",
+          "Sleep apnea",
+          "High blood pressure",
+          "Type 2 diabetes",
+          "Heart disease",
+          "Stroke"
+        ],
+        "treatments": [
+          "Dietary changes",
+          "Increased physical activity",
+          "Behavioral therapy",
+          "Weight-loss medications",
+          "Bariatric surgery"
+        ]
+      },
+      {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "description": "Obsessive-compulsive disorder (OCD) is a mental disorder in which a person has uncontrollable, recurring thoughts (obsessions) and/or behaviors (compulsions) that he or she feels the urge to repeat over and over.",
+        "symptoms": [
+          "Obsessions",
+          "Compulsions",
+          "Fear of contamination",
+          "Aggressive impulses",
+          "Symmetry and orderliness",
+          "Excessive doubt",
+          "Hoarding",
+          "Trichotillomania",
+          "Skin picking"
+        ],
+        "treatments": [
+          "Cognitive-behavioral therapy (CBT)",
+          "Exposure and response prevention (ERP)",
+          "Medication (SSRIs)"
+        ]
+      },
+      {
+        "name": "Ovarian cancer",
+        "description": "Ovarian cancer is a cancer that forms in the ovaries. It is the fifth most common cancer among women.",
+        "symptoms": [
+          "Abdominal bloating",
+          "Pelvic pain",
+          "Difficulty eating or feeling full quickly",
+          "Urinary symptoms",
+          "Back pain",
+          "Fatigue",
+          "Indigestion",
+          "Menstrual irregularities"
+        ],
+        "treatments": [
+          "Surgery",
+          "Chemotherapy",
+          "Targeted therapy"
+        ]
+      },
+      {
+        "name": "Paget's disease of bone",
+        "description": "Paget's disease of bone is a chronic disorder that typically results in enlarged and deformed bones. It can affect any bone in the body, but most commonly affects the pelvis, spine, skull, and legs.",
+        "symptoms": [
+          "Bone pain",
+          "Joint pain",
+          "Headaches",
+          "Hearing loss",
+          "Numbness or tingling",
+          "Enlarged bones",
+          "Bone deformities"
+        ],
+        "treatments": [
+          "Bisphosphonate medications",
+          "Calcitonin",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Peripheral artery disease (PAD)",
+        "description": "Peripheral artery disease (PAD) is a common circulatory problem in which narrowed arteries reduce blood flow to your limbs.",
+        "symptoms": [
+          "Painful cramping in hip, thigh or calf muscles after certain activities, such as walking or climbing stairs",
+          "Leg numbness or weakness",
+          "Coldness in your lower leg or foot, especially when compared with the other side",
+          "Sores on your toes, feet or legs that won't heal",
+          "A change in the color of your legs",
+          "Hair loss or slower hair growth on your feet and legs",
+          "Slower growth of toenails",
+          "Shiny skin on your legs",
+          "No pulse or a weak pulse in your legs or feet",
+          "Erectile dysfunction, especially in men with diabetes"
+        ],
+        "treatments": [
+          "Lifestyle changes such as regular exercise, smoking cessation, and healthy diet",
+          "Medications like blood thinners, cholesterol-lowering drugs, and medications to control blood pressure",
+          "Angioplasty and stenting",
+          "Bypass surgery",
+          "Amputation of the affected limb, in severe cases"
+        ]
+      },
+      {
+        "name": "Peripheral neuropathy",
+        "description": "Peripheral neuropathy is a condition that occurs when the nerves that carry information to and from the brain and spinal cord to the rest of the body are damaged or diseased.",
+        "symptoms": [
+          "Tingling, burning or prickling sensations in the affected area",
+          "Sharp, stabbing or shooting pain",
+          "Extreme sensitivity to touch",
+          "Lack of coordination and falling",
+          "Muscle weakness or paralysis if motor nerves are affected",
+          "Partial or complete loss of sensation if sensory nerves are affected",
+          "Bowel or bladder dysfunction if autonomic nerves are affected",
+          "Changes in blood pressure and sweating"
+        ],
+        "treatments": [
+          "Treatment of the underlying condition that caused the neuropathy",
+          "Medications to relieve pain, such as over-the-counter painkillers, anti-seizure drugs, and antidepressants",
+          "Topical treatments like capsaicin cream or lidocaine patches",
+          "Physical therapy to help maintain strength and balance",
+          "Occupational therapy to help with everyday activities",
+          "Surgery, in severe cases"
+        ]
+      },
+      {
+        "name": "Peyronie's disease",
+        "description": "Peyronie's disease is a condition in which fibrous scar tissue develops inside the penis, causing curved, painful erections.",
+        "symptoms": [
+          "Bent penis during an erection",
+          "Erectile dysfunction",
+          "Pain during an erection",
+          "Shortening of the penis"
+        ],
+        "treatments": [
+          "Medications like collagenase clostridium histolyticum to break down the scar tissue",
+          "Injections of verapamil or interferon to reduce the size of the plaque",
+          "Surgery, such as plication or grafting, to straighten the penis",
+          "Penile implants, in severe cases"
+        ]
+      },
+      {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "description": "Post-traumatic stress disorder (PTSD) is a mental health condition triggered by a traumatic event such as combat, natural disasters, sexual assault or serious accidents. People with PTSD often experience flashbacks, nightmares, anxiety, and a feeling of detachment from the world.",
+        "symptoms": [
+          "Flashbacks or reliving the traumatic event",
+          "Nightmares and sleep disturbances",
+          "Avoiding reminders of the traumatic event",
+          "Feeling numb or detached from the world",
+          "Hyperarousal or being easily startled",
+          "Negative changes in thinking or mood"
+        ],
+        "treatments": [
+          "Cognitive-behavioral therapy (CBT)",
+          "Eye movement desensitization and reprocessing (EMDR)",
+          "Medications such as antidepressants or anti-anxiety drugs"
+        ]
+      },
+      {
+        "name": "Primary biliary cirrhosis",
+        "description": "Primary biliary cirrhosis (PBC) is a chronic liver disease in which the small bile ducts in the liver are gradually destroyed, leading to a buildup of bile and damage to liver cells. The cause of PBC is unknown, but it is thought to be an autoimmune disorder.",
+        "symptoms": [
+          "Fatigue",
+          "Itching",
+          "Dry eyes and mouth",
+          "Enlarged liver or spleen",
+          "Jaundice",
+          "Osteoporosis"
+        ],
+        "treatments": [
+          "Ursodeoxycholic acid (UDCA) to slow the progression of the disease",
+          "Vitamin and mineral supplements",
+          "Medications to relieve itching or other symptoms",
+          "Liver transplant in severe cases"
+        ]
+      },
+      {
+        "name": "Primary sclerosing cholangitis",
+        "description": "Primary sclerosing cholangitis is a chronic liver disease characterized by inflammation and scarring of the bile ducts. Over time, this can lead to liver damage and cirrhosis.",
+        "symptoms": [
+          "Abdominal pain",
+          "Fatigue",
+          "Itching",
+          "Jaundice",
+          "Weight loss"
+        ],
+        "treatments": [
+          "Ursodeoxycholic acid",
+          "Endoscopic therapy",
+          "Liver transplantation"
+        ]
+      },
+      {
+        "name": "Raynaud's disease",
+        "description": "Raynaud's disease is a condition that affects the blood vessels in the fingers and toes, causing them to narrow and reduce blood flow. This can lead to numbness, tingling, and color changes in the affected areas.",
+        "symptoms": [
+          "Numbness",
+          "Tingling",
+          "Color changes in fingers and toes",
+          "Cold fingers and toes"
+        ],
+        "treatments": [
+          "Avoiding triggers such as cold temperatures and stress",
+          "Medications to improve blood flow",
+          "Biofeedback"
+        ]
+      },
+      {
+        "name": "Restless legs syndrome (RLS)",
+        "description": "Restless legs syndrome is a condition that causes an uncontrollable urge to move the legs, often accompanied by uncomfortable sensations in the legs such as tingling, itching, or crawling.",
+        "symptoms": [
+          "Uncontrollable urge to move legs",
+          "Tingling or crawling sensations in legs",
+          "Difficulty sleeping"
+        ],
+        "treatments": [
+          "Medications such as dopamine agonists and opioids",
+          "Lifestyle changes such as regular exercise and good sleep habits"
+        ]
+      },
+      {
+        "name": "Scleroderma",
+        "description": "Scleroderma is a group of rare autoimmune diseases that cause the skin and connective tissues to harden and thicken. In some cases, scleroderma can also affect the internal organs such as the lungs, heart, and kidneys.",
+        "symptoms": [
+          "Thickening and hardening of skin",
+          "Digestive problems",
+          "Joint pain and stiffness",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Immunosuppressive medications",
+          "Medications to treat specific symptoms",
+          "Physical therapy"
+        ]
+      },
+      {
+        "name": "Sickle cell disease",
+        "description": "Sickle cell disease is a genetic blood disorder that causes red blood cells to become misshapen and break down more easily than normal, leading to anemia and other complications.",
+        "symptoms": [
+          "Anemia",
+          "Episodes of pain",
+          "Jaundice",
+          "Swelling of hands and feet"
+        ],
+        "treatments": [
+          "Pain medications",
+          "Hydroxyurea to reduce the frequency of painful episodes",
+          "Blood transfusions"
+        ]
+      },
+      {
+        "name": "Sleep Apnea",
+        "description": "Sleep apnea is a sleep disorder characterized by pauses in breathing or shallow breaths during sleep. The condition can lead to poor sleep quality and excessive daytime sleepiness.",
+        "symptoms": [
+          "Loud snoring",
+          "Episodes of breathing cessation during sleep witnessed by another person",
+          "Gasping or choking during sleep",
+          "Excessive daytime sleepiness",
+          "Difficulty concentrating",
+          "Morning headaches",
+          "Irritability"
+        ],
+        "treatments": [
+          "Continuous Positive Airway Pressure (CPAP) therapy",
+          "Oral appliances",
+          "Surgery",
+          "Lifestyle changes (e.g. weight loss, quitting smoking, avoiding alcohol and sedatives)"
+        ]
+      },
+      {
+        "name": "AIDS",
+        "description": "AIDS (Acquired Immune Deficiency Syndrome) is a disease caused by the human immunodeficiency virus (HIV), which attacks and weakens the immune system.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Swollen lymph nodes",
+          "Rapid weight loss",
+          "Frequent infections",
+          "Skin rashes",
+          "Night sweats",
+          "Chronic diarrhea",
+          "Persistent cough",
+          "Memory loss",
+          "Depression",
+          "Neurological disorders"
+        ],
+        "treatments": [
+          "Antiretroviral therapy",
+          "Prophylaxis for opportunistic infections",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Anthrax",
+        "description": "Anthrax is a serious bacterial infection caused by the spore-forming bacterium Bacillus anthracis, which can affect both humans and animals.",
+        "symptoms": [
+          "Flu-like symptoms",
+          "Skin lesions",
+          "Swelling",
+          "Fever",
+          "Chest discomfort",
+          "Shortness of breath",
+          "Nausea and vomiting",
+          "Abdominal pain",
+          "Headache",
+          "Confusion"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Antitoxins",
+          "Wound care"
+        ]
+      },
+      {
+        "name": "Avian influenza",
+        "description": "Avian influenza, also known as bird flu, is a highly contagious viral infection that primarily affects birds but can also infect humans.",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Sore throat",
+          "Muscle aches",
+          "Fatigue",
+          "Headache",
+          "Difficulty breathing",
+          "Pneumonia",
+          "Acute respiratory distress syndrome",
+          "Multi-organ failure"
+        ],
+        "treatments": [
+          "Antiviral drugs",
+          "Supportive care",
+          "Vaccines (for birds)"
+        ]
+      },
+      {
+        "name": "Bacterial meningitis",
+        "description": "Bacterial meningitis is a serious infection of the meninges, which are the protective membranes that surround the brain and spinal cord.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Stiff neck",
+          "Nausea and vomiting",
+          "Sensitivity to light",
+          "Confusion",
+          "Seizures",
+          "Coma"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Corticosteroids",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Botulism",
+        "description": "Botulism is a rare but serious bacterial infection caused by the toxin produced by the bacterium Clostridium botulinum, which can lead to paralysis and even death.",
+        "symptoms": [
+          "Double vision",
+          "Blurred vision",
+          "Drooping eyelids",
+          "Slurred speech",
+          "Difficulty swallowing",
+          "Dry mouth",
+          "Muscle weakness",
+          "Paralysis",
+          "Respiratory failure"
+        ],
+        "treatments": [
+          "Antitoxin",
+          "Ventilation support",
+          "Intensive care"
+        ]
+      },
+      {
+        "name": "Brucellosis",
+        "description": "Brucellosis is a bacterial infection that spreads from animals to people, usually through unpasteurized dairy products or contact with bodily fluids from infected animals.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Loss of appetite",
+          "Joint pain",
+          "Muscle pain",
+          "Sweating",
+          "Headache"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Rest",
+          "Pain relievers"
+        ]
+      },
+      {
+        "name": "Campylobacteriosis",
+        "description": "Campylobacteriosis is a bacterial infection that causes diarrhea, abdominal pain, and fever. It is usually contracted through contaminated food, particularly undercooked poultry.",
+        "symptoms": [
+          "Diarrhea",
+          "Abdominal pain",
+          "Fever",
+          "Nausea",
+          "Vomiting"
+        ],
+        "treatments": [
+          "Fluids",
+          "Antibiotics",
+          "Rest"
+        ]
+      },
+      {
+        "name": "Candidiasis",
+        "description": "Candidiasis is a fungal infection caused by the overgrowth of yeast. It can occur in various parts of the body, including the mouth, throat, genitals, and skin.",
+        "symptoms": [
+          "Redness",
+          "Itching",
+          "Burning",
+          "Swelling",
+          "White patches on the tongue or inside the mouth",
+          "Pain during sex",
+          "Discharge"
+        ],
+        "treatments": [
+          "Antifungal medication",
+          "Topical creams",
+          "Oral medication"
+        ]
+      },
+      {
+        "name": "Chagas disease",
+        "description": "Chagas disease is a parasitic infection caused by the protozoan Trypanosoma cruzi. It is primarily found in Latin America, where it is transmitted to humans through the bite of infected triatomine bugs.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Body aches",
+          "Swollen lymph nodes",
+          "Headache",
+          "Enlarged liver or spleen",
+          "Heart palpitations"
+        ],
+        "treatments": [
+          "Antiparasitic medication",
+          "Symptomatic treatment"
+        ]
+      },
+      {
+        "name": "Chickenpox",
+        "description": "Chickenpox is a highly contagious viral infection that causes an itchy rash and blisters. It is primarily spread through direct contact with an infected person or through airborne transmission.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Loss of appetite",
+          "Headache",
+          "Itchy rash",
+          "Blisters",
+          "Body aches"
+        ],
+        "treatments": [
+          "Antiviral medication",
+          "Symptomatic treatment"
+        ]
+      },
+      {
+        "name": "Chlamydia",
+        "description": "A common sexually transmitted infection caused by the bacterium Chlamydia trachomatis.",
+        "symptoms": [
+          "Painful urination",
+          "Abnormal vaginal discharge",
+          "Pain during sex"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relievers",
+          "Abstaining from sexual activity"
+        ]
+      },
+      {
+        "name": "Cholera",
+        "description": "An acute diarrheal illness caused by the bacterium Vibrio cholerae.",
+        "symptoms": [
+          "Profuse watery diarrhea",
+          "Vomiting",
+          "Dehydration"
+        ],
+        "treatments": [
+          "Rehydration therapy",
+          "Antibiotics",
+          "Zinc supplements"
+        ]
+      },
+      {
+        "name": "Coccidioidomycosis",
+        "description": "A fungal infection caused by inhaling spores of the Coccidioides fungus.",
+        "symptoms": [
+          "Cough",
+          "Fever",
+          "Chest pain"
+        ],
+        "treatments": [
+          "Antifungal medications",
+          "Rest",
+          "Pain relievers"
+        ]
+      },
+      {
+        "name": "Common cold",
+        "description": "A viral infection of the upper respiratory tract.",
+        "symptoms": [
+          "Runny nose",
+          "Sore throat",
+          "Cough"
+        ],
+        "treatments": [
+          "Rest",
+          "Fluids",
+          "Over-the-counter medications for symptom relief"
+        ]
+      },
+      {
+        "name": "Creutzfeldt-Jakob disease",
+        "description": "A rare and fatal brain disorder caused by prions, abnormal proteins that damage brain cells.",
+        "symptoms": [
+          "Rapidly progressive dementia",
+          "Muscle stiffness",
+          "Difficulty with coordination and movement"
+        ],
+        "treatments": [
+          "There is no cure or treatment that can slow the progression of the disease"
+        ]
+      },
+      {
+        "name": "Cryptococcosis",
+        "description": "Cryptococcosis is a fungal infection caused by Cryptococcus neoformans or Cryptococcus gattii. It can affect the lungs, brain, and other parts of the body.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Nausea and vomiting",
+          "Stiff neck",
+          "Sensitivity to light",
+          "Confusion",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Antifungal medications",
+          "Amphotericin B",
+          "Flucytosine",
+          "Fluconazole"
+        ]
+      },
+      {
+        "name": "Cryptosporidiosis",
+        "description": "Cryptosporidiosis is a parasitic infection caused by the Cryptosporidium parasite. It can cause diarrhea, stomach cramps, nausea, and vomiting.",
+        "symptoms": [
+          "Diarrhea",
+          "Stomach cramps",
+          "Nausea",
+          "Vomiting",
+          "Fever",
+          "Dehydration"
+        ],
+        "treatments": [
+          "Antiparasitic medications",
+          "Nitazoxanide",
+          "Azithromycin",
+          "Rehydration therapy"
+        ]
+      },
+      {
+        "name": "Cytomegalovirus infection",
+        "description": "Cytomegalovirus (CMV) is a common virus that can infect people of all ages. Most people with CMV have no symptoms, but it can cause serious problems in people with weakened immune systems.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Sore throat",
+          "Swollen glands",
+          "Muscle aches",
+          "Loss of appetite",
+          "Jaundice",
+          "Pneumonia",
+          "Encephalitis"
+        ],
+        "treatments": [
+          "Antiviral medications",
+          "Ganciclovir",
+          "Valganciclovir",
+          "Foscarnet"
+        ]
+      },
+      {
+        "name": "Dengue fever",
+        "description": "Dengue fever is a viral infection transmitted by mosquitoes. It can cause a high fever, severe headache, joint and muscle pain, and a rash.",
+        "symptoms": [
+          "High fever",
+          "Severe headache",
+          "Joint and muscle pain",
+          "Nausea and vomiting",
+          "Rash",
+          "Pain behind the eyes",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Pain relievers",
+          "Fluid replacement therapy",
+          "Rest",
+          "Preventing dehydration"
+        ]
+      },
+      {
+        "name": "Diphtheria",
+        "description": "Diphtheria is a bacterial infection that can cause severe respiratory and cardiac problems. It is spread through contact with an infected person or object.",
+        "symptoms": [
+          "Sore throat",
+          "Fever",
+          "Swollen glands in the neck",
+          "Weakness and fatigue",
+          "Difficulty breathing",
+          "Nasal discharge",
+          "Formation of a thick grayish coating in the throat and nose"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Diphtheria antitoxin",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Ebola virus disease",
+        "description": "Ebola virus disease (EVD) is a rare but severe illness caused by the Ebola virus.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle pain",
+          "Fatigue",
+          "Diarrhea",
+          "Vomiting",
+          "Abdominal pain",
+          "Unexplained hemorrhage"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Experimental treatments"
+        ]
+      },
+      {
+        "name": "Ehrlichiosis",
+        "description": "Ehrlichiosis is a bacterial illness transmitted by ticks that causes flu-like symptoms.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle aches",
+          "Fatigue",
+          "Nausea",
+          "Vomiting",
+          "Diarrhea",
+          "Cough",
+          "Joint pain",
+          "Confusion"
+        ],
+        "treatments": [
+          "Doxycycline",
+          "Other antibiotics"
+        ]
+      },
+      {
+        "name": "E. coli infection",
+        "description": "E. coli infection is a type of foodborne illness caused by consuming food or water contaminated with the bacteria E. coli.",
+        "symptoms": [
+          "Abdominal pain",
+          "Diarrhea",
+          "Nausea",
+          "Vomiting",
+          "Fatigue",
+          "Fever",
+          "Bloody stool"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Fluid replacement"
+        ]
+      },
+      {
+        "name": "Encephalitis",
+        "description": "Encephalitis is inflammation of the brain, usually caused by a viral infection.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Stiff neck",
+          "Confusion",
+          "Seizures",
+          "Muscle weakness",
+          "Personality changes",
+          "Loss of consciousness"
+        ],
+        "treatments": [
+          "Antiviral medications",
+          "Steroids",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Enterovirus infection",
+        "description": "Enterovirus infection is a viral illness that can cause a range of symptoms from mild to severe.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle aches",
+          "Fatigue",
+          "Rash",
+          "Sore throat",
+          "Runny nose",
+          "Cough",
+          "Diarrhea",
+          "Vomiting",
+          "Meningitis",
+          "Encephalitis"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Antiviral medications",
+          "Pain and fever relief"
+        ]
+      },
+      {
+        "name": "Erysipelas",
+        "description": "Erysipelas is a bacterial skin infection that usually affects the legs, but can also occur on the face, arms and other parts of the body. It is caused by group A streptococcus bacteria and is characterized by redness, warmth, and swelling of the affected area.",
+        "symptoms": [
+          "Redness, warmth, and swelling of the skin",
+          "Fever",
+          "Chills",
+          "Fatigue",
+          "Pain and tenderness in the affected area",
+          "Blisters and sores may develop"
+        ],
+        "treatments": [
+          "Antibiotics, such as penicillin or erythromycin",
+          "Pain relievers, such as acetaminophen or ibuprofen",
+          "Elevating the affected limb to reduce swelling",
+          "Resting and staying hydrated"
+        ]
+      },
+      {
+        "name": "Escherichia coli O157:H7 infection",
+        "description": "Escherichia coli O157:H7 is a strain of E. coli bacteria that can cause severe foodborne illness. It is typically spread through contaminated food or water and can lead to symptoms such as abdominal pain, diarrhea, and dehydration. In severe cases, it can cause kidney failure and other complications.",
+        "symptoms": [
+          "Abdominal pain and cramping",
+          "Diarrhea, often bloody",
+          "Nausea and vomiting",
+          "Dehydration",
+          "Fever",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Drinking plenty of fluids to prevent dehydration",
+          "Antibiotics are not recommended for treating E. coli O157:H7 infection as they can increase the risk of kidney damage",
+          "In severe cases, hospitalization may be necessary"
+        ]
+      },
+      {
+        "name": "Filariasis",
+        "description": "Filariasis is a parasitic infection that is transmitted by mosquitoes. It can lead to a variety of symptoms, including fever, lymphedema, and elephantiasis. The infection is common in many tropical and subtropical regions of the world.",
+        "symptoms": [
+          "Swelling of the limbs, genitalia, or breasts",
+          "Fever",
+          "Chills",
+          "Muscle and joint pain",
+          "Fatigue",
+          "Skin rash",
+          "Lymphedema"
+        ],
+        "treatments": [
+          "Antiparasitic medication, such as diethylcarbamazine",
+          "Symptomatic treatment, such as pain relievers or antibiotics to treat secondary infections",
+          "Preventive measures, such as mosquito control measures and the use of bed nets"
+        ]
+      },
+      {
+        "name": "Giardiasis",
+        "description": "Giardiasis is a diarrheal illness caused by the microscopic parasite Giardia.",
+        "symptoms": [
+          "diarrhea",
+          "abdominal cramps",
+          "bloating",
+          "nausea",
+          "fatigue",
+          "loss of appetite",
+          "weight loss"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Anti-diarrheal medications",
+          "Rehydration therapy"
+        ]
+      },
+      {
+        "name": "Gonorrhea",
+        "description": "Gonorrhea is a sexually transmitted infection caused by the bacterium Neisseria gonorrhoeae.",
+        "symptoms": [
+          "painful urination",
+          "abnormal discharge",
+          "painful intercourse",
+          "lower abdominal pain",
+          "fever"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relief medication",
+          "Rest",
+          "Safe sex practices"
+        ]
+      },
+      {
+        "name": "Group A streptococcal infection",
+        "description": "Group A streptococcal infection is a bacterial infection caused by group A streptococcus.",
+        "symptoms": [
+          "fever",
+          "sore throat",
+          "swollen lymph nodes",
+          "nausea",
+          "vomiting",
+          "abdominal pain",
+          "rash"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relief medication",
+          "Rest"
+        ]
+      },
+      {
+        "name": "Haemophilus influenzae infection",
+        "description": "Haemophilus influenzae infection is a bacterial infection caused by Haemophilus influenzae.",
+        "symptoms": [
+          "fever",
+          "headache",
+          "stiff neck",
+          "fatigue",
+          "ear pain",
+          "difficulty breathing"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relief medication",
+          "Rest"
+        ]
+      },
+      {
+        "name": "Hantavirus pulmonary syndrome",
+        "description": "Hantavirus pulmonary syndrome is a rare but serious respiratory disease caused by hantavirus.",
+        "symptoms": [
+          "fever",
+          "muscle aches",
+          "fatigue",
+          "shortness of breath",
+          "cough",
+          "headaches",
+          "abdominal pain"
+        ],
+        "treatments": [
+          "Hospitalization",
+          "Oxygen therapy",
+          "Fluid replacement therapy"
+        ]
+      },
+      {
+        "name": "Helminthiasis",
+        "description": "Helminthiasis is a parasitic disease caused by helminths.",
+        "symptoms": [
+          "abdominal pain",
+          "diarrhea",
+          "nausea",
+          "vomiting",
+          "fever",
+          "fatigue",
+          "weight loss"
+        ],
+        "treatments": [
+          "Antiparasitic medications",
+          "Surgery (in some cases)"
+        ]
+      },           
+      {
+        "name": "Hepatitis A",
+        "description": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus.",
+        "symptoms": [
+          "Fatigue",
+          "Nausea and vomiting",
+          "Abdominal pain",
+          "Loss of appetite",
+          "Dark urine",
+          "Joint pain",
+          "Jaundice"
+        ],
+        "treatments": [
+          "Rest",
+          "Adequate nutrition",
+          "Fluids",
+          "Vaccination"
+        ]
+      },
+      {
+        "name": "Hepatitis B",
+        "description": "Hepatitis B is a viral infection that attacks the liver and can cause both acute and chronic disease.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Loss of appetite",
+          "Nausea",
+          "Vomiting",
+          "Abdominal pain",
+          "Joint pain",
+          "Jaundice"
+        ],
+        "treatments": [
+          "Antiviral medication",
+          "Rest",
+          "Adequate nutrition",
+          "Fluids",
+          "Vaccination"
+        ]
+      },
+      {
+        "name": "Hepatitis C",
+        "description": "Hepatitis C is a viral infection that causes liver inflammation, sometimes leading to serious liver damage.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Joint pain",
+          "Muscle pain",
+          "Loss of appetite",
+          "Nausea",
+          "Vomiting",
+          "Abdominal pain",
+          "Dark urine",
+          "Jaundice"
+        ],
+        "treatments": [
+          "Antiviral medication",
+          "Rest",
+          "Adequate nutrition",
+          "Fluids"
+        ]
+      },
+      {
+        "name": "Herpes zoster",
+        "description": "Herpes zoster, also known as shingles, is a viral infection that causes a painful rash.",
+        "symptoms": [
+          "Pain, burning, or tingling on one side of the body",
+          "A rash that appears as a band or stripe on one side of the body",
+          "Blisters that break open and crust over",
+          "Itching",
+          "Fever",
+          "Headache",
+          "Sensitivity to light"
+        ],
+        "treatments": [
+          "Antiviral medication",
+          "Pain relievers",
+          "Topical creams or gels",
+          "Cool, wet compresses",
+          "Rest"
+        ]
+      },
+      {
+        "name": "Histoplasmosis",
+        "description": "Histoplasmosis is a fungal infection caused by inhaling spores of the fungus Histoplasma capsulatum. It can cause flu-like symptoms and can be severe in people with weakened immune systems.",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Chest pain",
+          "Fatigue",
+          "Body aches"
+        ],
+        "treatments": [
+          "Antifungal medications",
+          "Oxygen therapy",
+          "Intravenous fluids"
+        ]
+      },
+      {
+        "name": "Hookworm infection",
+        "description": "Hookworm infection is caused by parasitic worms that live in the intestines. It is commonly found in areas with poor sanitation and can lead to anemia and malnutrition.",
+        "symptoms": [
+          "Itching and a rash at the site of infection",
+          "Abdominal pain",
+          "Diarrhea",
+          "Fatigue",
+          "Loss of appetite"
+        ],
+        "treatments": [
+          "Anthelmintic medications",
+          "Iron supplements",
+          "Intravenous fluids"
+        ]
+      },
+      {
+        "name": "Human papillomavirus infection",
+        "description": "Human papillomavirus (HPV) is a viral infection that can cause genital warts and increase the risk of developing certain cancers, including cervical cancer.",
+        "symptoms": [
+          "Genital warts",
+          "Abnormal Pap test results",
+          "No symptoms in many cases"
+        ],
+        "treatments": [
+          "Medications to treat warts",
+          "Surgery to remove abnormal tissue",
+          "Vaccines to prevent infection"
+        ]
+      },
+      {
+        "name": "Impetigo",
+        "description": "Impetigo is a highly contagious bacterial skin infection that causes sores and blisters. It is common in children and can spread easily through contact with the infected person.",
+        "symptoms": [
+          "Red sores that quickly turn into blisters",
+          "Fluid-filled blisters that burst and develop honey-colored crusts",
+          "Itching"
+        ],
+        "treatments": [
+          "Antibiotic ointments or creams",
+          "Oral antibiotics",
+          "Keeping the affected area clean and covered"
+        ]
+      },
+      {
+        "name": "Influenza",
+        "description": "Influenza, or the flu, is a viral infection that affects the respiratory system. It can cause fever, cough, body aches, and other symptoms, and can be serious in people with weakened immune systems or other health conditions.",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Sore throat",
+          "Runny or stuffy nose",
+          "Body aches",
+          "Headache",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Antiviral medications",
+          "Fever-reducing medications",
+          "Fluids and rest"
+        ]
+      },
+      {
+        "name": "Japanese encephalitis",
+        "description": "Japanese encephalitis is a viral infection that is transmitted by mosquitoes and can cause inflammation of the brain.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Vomiting",
+          "Seizures",
+          "Stiff neck",
+          "Muscle weakness",
+          "Confusion"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Antiviral medication",
+          "Preventive vaccination"
+        ]
+      },
+      {
+        "name": "Kawasaki disease",
+        "description": "Kawasaki disease is an illness that primarily affects children and can cause inflammation in the blood vessels throughout the body.",
+        "symptoms": [
+          "Fever",
+          "Red eyes",
+          "Rash",
+          "Swollen lymph nodes",
+          "Swollen hands and feet",
+          "Strawberry tongue"
+        ],
+        "treatments": [
+          "Intravenous immunoglobulin (IVIG)",
+          "Aspirin",
+          "Corticosteroids"
+        ]
+      },
+      {
+        "name": "Legionellosis",
+        "description": "Legionellosis is a type of pneumonia caused by the Legionella bacteria.",
+        "symptoms": [
+          "Cough",
+          "Fever",
+          "Shortness of breath",
+          "Muscle aches",
+          "Headache",
+          "Nausea and vomiting"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Leishmaniasis",
+        "description": "Leishmaniasis is a parasitic disease that is transmitted by the bite of infected sand flies.",
+        "symptoms": [
+          "Skin sores",
+          "Fever",
+          "Weight loss",
+          "Enlarged spleen and liver"
+        ],
+        "treatments": [
+          "Antiparasitic medication",
+          "Wound care"
+        ]
+      },
+      {
+        "name": "Leprosy",
+        "description": "Leprosy is a chronic bacterial infection that can damage the skin, nerves, and other organs.",
+        "symptoms": [
+          "Skin lesions",
+          "Numbness or lack of sensation",
+          "Muscle weakness",
+          "Eye problems",
+          "Nosebleeds"
+        ],
+        "treatments": [
+          "Multidrug therapy",
+          "Surgery for deformities",
+          "Rehabilitation"
+        ]
+      },
+      {
+        "name": "Leptospirosis",
+        "description": "Leptospirosis is an infection caused by bacteria of the Leptospira genus. It can cause a wide range of symptoms, from mild flu-like symptoms to severe disease involving multiple organs.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle aches",
+          "Vomiting",
+          "Jaundice",
+          "Red eyes",
+          "Abdominal pain",
+          "Diarrhea",
+          "Rash",
+          "Chills"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Listeriosis",
+        "description": "Listeriosis is a serious infection caused by eating food contaminated with the bacterium Listeria monocytogenes. It can cause a variety of symptoms, from mild flu-like symptoms to severe disease involving the brain and other organs.",
+        "symptoms": [
+          "Fever",
+          "Muscle aches",
+          "Nausea",
+          "Diarrhea",
+          "Headache",
+          "Stiff neck",
+          "Confusion",
+          "Loss of balance",
+          "Convulsions"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Lyme disease",
+        "description": "Lyme disease is an infection caused by the bacterium Borrelia burgdorferi. It is transmitted to humans through the bite of infected blacklegged ticks. The symptoms of Lyme disease can vary widely, from mild flu-like symptoms to severe disease involving the heart, joints, and nervous system.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Fatigue",
+          "Muscle aches",
+          "Joint pain",
+          "Swollen lymph nodes",
+          "Bull's-eye rash"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relievers"
+        ]
+      },
+      {
+        "name": "Malaria",
+        "description": "Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. It can cause fever, chills, and flu-like symptoms, and can be a serious health risk if not treated promptly.",
+        "symptoms": [
+          "Fever",
+          "Chills",
+          "Headache",
+          "Sweats",
+          "Fatigue",
+          "Nausea and vomiting",
+          "Muscle pain",
+          "Joint pain",
+          "Anemia",
+          "Convulsions"
+        ],
+        "treatments": [
+          "Antimalarial medications",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Measles",
+        "description": "Measles is a highly contagious viral disease that can be serious or even fatal. It is spread through the air by coughing or sneezing. The symptoms of measles include fever, cough, runny nose, and a rash all over the body.",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Runny nose",
+          "Red, watery eyes",
+          "Rash",
+          "Small white spots with bluish-white centers inside the mouth",
+          "Body aches"
+        ],
+        "treatments": [
+          "Symptom relief",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Meningococcal disease",
+        "description": "Meningococcal disease is a bacterial infection that can cause meningitis and sepsis. It is caused by the bacterium Neisseria meningitidis and is spread through respiratory and throat secretions.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Stiff neck",
+          "Nausea and vomiting",
+          "Sensitivity to light",
+          "Confusion",
+          "Rash"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Intravenous fluids",
+          "Oxygen therapy",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Methicillin-resistant Staphylococcus aureus (MRSA) infection",
+        "description": "MRSA is a type of staph infection that is resistant to many antibiotics. It can cause skin infections, pneumonia, and other infections. MRSA is spread through contact with contaminated surfaces or through skin-to-skin contact.",
+        "symptoms": [
+          "Redness and swelling of the skin",
+          "Painful skin lesions",
+          "Fever",
+          "Chills",
+          "Chest pain",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Draining of abscesses",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Molluscum contagiosum",
+        "description": "Molluscum contagiosum is a viral infection that causes small, raised, pearl-like bumps on the skin. It is spread through skin-to-skin contact and contact with contaminated objects.",
+        "symptoms": [
+          "Small, raised bumps on the skin",
+          "White, waxy cores in the bumps",
+          "Itching"
+        ],
+        "treatments": [
+          "Topical medications",
+          "Cryotherapy",
+          "Curettage",
+          "Laser therapy"
+        ]
+      },
+      {
+        "name": "Monkeypox",
+        "description": "Monkeypox is a rare viral disease that is similar to smallpox. It is spread through contact with infected animals or humans. Monkeypox can cause fever, rash, and pustules on the skin.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle aches",
+          "Backache",
+          "Swollen lymph nodes",
+          "Chills",
+          "Exhaustion",
+          "Rash"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Antiviral medications"
+        ]
+      },
+      {
+        "name": "Mumps",
+        "description": "Mumps is a viral infection that causes swelling of the salivary glands. It is spread through respiratory droplets and contact with contaminated surfaces. Mumps can also cause inflammation of the testicles, ovaries, and brain.",
+        "symptoms": [
+          "Swelling of the salivary glands",
+          "Fever",
+          "Headache",
+          "Muscle aches",
+          "Fatigue",
+          "Loss of appetite",
+          "Painful testicles or breasts",
+          "Stiff neck",
+          "Difficulty swallowing"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Pain relievers",
+          "Ice packs",
+          "Fluids"
+        ]
+      },
+      {
+        "name": "Mycobacterium avium complex infection",
+        "description": "Mycobacterium avium complex (MAC) infection is a type of bacterial infection that commonly affects people with weakened immune systems, such as those with HIV/AIDS.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Weight loss",
+          "Night sweats",
+          "Diarrhea",
+          "Abdominal pain",
+          "Persistent cough",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Antimicrobial therapy",
+          "Immune system therapy"
+        ]
+      },
+      {
+        "name": "Mycoplasma pneumonia",
+        "description": "Mycoplasma pneumonia is a type of bacterial pneumonia that affects the respiratory system.",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Sore throat",
+          "Headache",
+          "Fatigue",
+          "Muscle aches",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Anti-inflammatory medications",
+          "Rest and fluids"
+        ]
+      },
+      {
+        "name": "Necrotizing fasciitis",
+        "description": "Necrotizing fasciitis is a rare but serious bacterial infection that affects the soft tissue under the skin, including muscle and fat.",
+        "symptoms": [
+          "Intense pain",
+          "Swelling",
+          "Redness",
+          "Fever",
+          "Nausea and vomiting",
+          "Fatigue",
+          "Ulcers or blisters",
+          "Blackened or dead skin"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Surgery to remove infected tissue",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Neonatal tetanus",
+        "description": "Neonatal tetanus is a type of tetanus that affects newborn babies. It is caused by exposure to the bacteria that produce tetanus toxin.",
+        "symptoms": [
+          "Stiffness and spasms in the muscles",
+          "Irritability",
+          "Difficulty feeding",
+          "Difficulty breathing",
+          "Fever",
+          "Sweating",
+          "High blood pressure",
+          "Rapid heart rate"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Tetanus immunoglobulin",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Norovirus infection",
+        "description": "Norovirus infection is a type of viral infection that affects the stomach and intestines. It is highly contagious and can spread easily in crowded places.",
+        "symptoms": [
+          "Nausea",
+          "Vomiting",
+          "Diarrhea",
+          "Stomach cramps",
+          "Fever",
+          "Headache",
+          "Body aches"
+        ],
+        "treatments": [
+          "Rest and fluids",
+          "Anti-nausea medication",
+          "Rehydration therapy"
+        ]
+      },
+      {
+        "name": "Onchocerciasis",
+        "description": "Onchocerciasis, also known as river blindness, is a parasitic disease caused by the worm Onchocerca volvulus. It is transmitted to humans through the bites of blackflies.",
+        "symptoms": [
+          "Skin rash",
+          "Itching",
+          "Eye lesions",
+          "Visual impairment"
+        ],
+        "treatments": [
+          "Ivermectin",
+          "Doxycycline",
+          "Surgery (for advanced cases)"
+        ]
+      },
+      {
+        "name": "Ophthalmia neonatorum",
+        "description": "Ophthalmia neonatorum is a form of conjunctivitis that occurs in newborn babies. It is usually caused by an infection acquired during delivery from the mother, who may have a sexually transmitted infection.",
+        "symptoms": [
+          "Eye redness",
+          "Swelling of the eyelids",
+          "Discharge from the eyes"
+        ],
+        "treatments": [
+          "Antibiotic eye drops or ointment",
+          "Preventive measures (e.g. screening and treating pregnant women for STIs)"
+        ]
+      },
+      {
+        "name": "Osteomyelitis",
+        "description": "Osteomyelitis is a bone infection that can occur in any bone in the body. It is usually caused by bacteria that enter the bone through a wound or during surgery.",
+        "symptoms": [
+          "Pain and tenderness in the affected area",
+          "Swelling",
+          "Fever",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Antibiotics (oral or intravenous)",
+          "Surgery (for severe cases or to remove dead tissue)"
+        ]
+      },
+      {
+        "name": "Paratyphoid fever",
+        "description": "Paratyphoid fever is a bacterial infection caused by Salmonella Paratyphi bacteria. It is usually contracted by consuming contaminated food or water.",
+        "symptoms": [
+          "Fever",
+          "Abdominal pain",
+          "Diarrhea",
+          "Nausea and vomiting"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Fluid and electrolyte replacement",
+          "Rest and adequate nutrition"
+        ]
+      },
+      {
+        "name": "Pertussis",
+        "description": "Pertussis, also known as whooping cough, is a highly contagious respiratory infection caused by the bacterium Bordetella pertussis. It can affect people of all ages, but is most dangerous for infants.",
+        "symptoms": [
+          "Cough (often severe and persistent)",
+          "Whooping sound during coughing fits",
+          "Vomiting",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Antibiotics (to prevent the spread of the infection)",
+          "Supportive care (e.g. fluids, rest, and nutrition)",
+          "Vaccination (to prevent infection)"
+        ]
+      },
+      {
+        "name": "Pneumococcal disease",
+        "description": "Pneumococcal disease is an infection caused by Streptococcus pneumoniae bacteria. It can lead to pneumonia, meningitis, and other infections.",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Chest pain",
+          "Shortness of breath",
+          "Stiff neck",
+          "Headache"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Vaccination"
+        ]
+      },
+      {
+        "name": "Poliomyelitis",
+        "description": "Poliomyelitis, also known as polio, is a highly contagious viral infection that can lead to paralysis, breathing problems, and even death.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Nausea",
+          "Vomiting",
+          "Stiffness in the neck",
+          "Muscle weakness or paralysis"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Vaccination"
+        ]
+      },
+      {
+        "name": "Q fever",
+        "description": "Q fever is a bacterial infection caused by Coxiella burnetii. It can cause fever, headaches, muscle aches, and pneumonia.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle aches",
+          "Chills",
+          "Sweats",
+          "Cough",
+          "Chest pain"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Rabies",
+        "description": "Rabies is a deadly viral infection that is transmitted to humans through the bite of an infected animal, such as a dog or bat.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle weakness",
+          "Seizures",
+          "Excessive salivation",
+          "Paralysis"
+        ],
+        "treatments": [
+          "Post-exposure prophylaxis",
+          "Vaccination"
+        ]
+      },
+      {
+        "name": "Respiratory syncytial virus infection",
+        "description": "Respiratory syncytial virus (RSV) infection is a common respiratory infection that can cause serious illness, particularly in young children and older adults.",
+        "symptoms": [
+          "Runny or stuffy nose",
+          "Cough",
+          "Fever",
+          "Wheezing",
+          "Difficulty breathing"
+        ],
+        "treatments": [
+          "Supportive care",
+          "Antiviral medication"
+        ]
+      },
+      {
+        "name": "Rheumatic fever",
+        "description": "Rheumatic fever is a complication of untreated strep throat. It can cause inflammation of the heart, joints, and other organs.",
+        "symptoms": [
+          "Fever",
+          "Joint pain and swelling",
+          "Chest pain",
+          "Shortness of breath"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Anti-inflammatory medication",
+          "Bed rest"
+        ]
+      },
+      {
+        "name": "Rift Valley fever",
+        "description": "Rift Valley fever is a viral disease that affects both humans and animals. It is most commonly found in sub-Saharan Africa.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle pain",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Symptomatic treatment",
+          "Fluid and electrolyte replacement",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Rocky Mountain spotted fever",
+        "description": "Rocky Mountain spotted fever is a bacterial infection that is spread by ticks. It is most commonly found in North and South America.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle pain",
+          "Rash"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Symptomatic treatment",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Rotavirus infection",
+        "description": "Rotavirus infection is a common cause of diarrhea in infants and young children. It can lead to dehydration and other complications.",
+        "symptoms": [
+          "Diarrhea",
+          "Vomiting",
+          "Fever",
+          "Abdominal pain"
+        ],
+        "treatments": [
+          "Rehydration therapy",
+          "Symptomatic treatment",
+          "Prevention through vaccination"
+        ]
+      },
+      {
+        "name": "Rubella",
+        "description": "Rubella, also known as German measles, is a viral infection that can cause rash, fever, and swollen lymph nodes.",
+        "symptoms": [
+          "Rash",
+          "Fever",
+          "Headache",
+          "Swollen lymph nodes"
+        ],
+        "treatments": [
+          "Symptomatic treatment",
+          "Prevention through vaccination"
+        ]
+      },
+      {
+        "name": "Salmonellosis",
+        "description": "Salmonellosis is a bacterial infection that can cause diarrhea, fever, and abdominal cramps. Most people recover without treatment, but in some cases, it can lead to more severe illness.",
+        "symptoms": [
+          "Nausea",
+          "Vomiting",
+          "Abdominal cramps",
+          "Fever",
+          "Diarrhea",
+          "Headache"
+        ],
+        "treatments": [
+          "Drinking fluids to prevent dehydration",
+          "Antibiotics (in severe cases)"
+        ]
+      },
+      {
+        "name": "SARS (severe acute respiratory syndrome)",
+        "description": "SARS is a serious respiratory illness caused by the SARS coronavirus. It first appeared in Asia in 2003 and spread to several other countries. SARS can cause severe breathing problems, fever, and other symptoms.",
+        "symptoms": [
+          "Fever",
+          "Chills",
+          "Dry cough",
+          "Shortness of breath",
+          "Muscle aches",
+          "Headache",
+          "Sore throat",
+          "Malaise"
+        ],
+        "treatments": [
+          "Antiviral medications (in some cases)",
+          "Corticosteroids (to reduce inflammation)",
+          "Oxygen therapy"
+        ]
+      },
+      {
+        "name": "Scabies",
+        "description": "Scabies is a contagious skin condition caused by tiny mites that burrow into the skin. It causes intense itching and a rash.",
+        "symptoms": [
+          "Intense itching (especially at night)",
+          "Rash (usually on the hands, feet, or genitals)",
+          "Small, raised bumps on the skin"
+        ],
+        "treatments": [
+          "Prescription medications to kill the mites",
+          "Topical creams or lotions"
+        ]
+      },
+      {
+        "name": "Scarlet fever",
+        "description": "Scarlet fever is a bacterial infection that can cause a bright red rash, fever, sore throat, and other symptoms. It is most common in children between the ages of 5 and 15.",
+        "symptoms": [
+          "Fever",
+          "Sore throat",
+          "Bright red rash (usually on the chest, stomach, and limbs)",
+          "Reddening of the tongue (known as \"strawberry tongue\")",
+          "Headache",
+          "Nausea",
+          "Vomiting"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Over-the-counter pain relievers (to reduce fever and discomfort)"
+        ]
+      },
+      {
+        "name": "Shigellosis",
+        "description": "Shigellosis is an infection caused by the Shigella bacteria. It can cause diarrhea, fever, and stomach cramps. In severe cases, it can lead to dehydration and other complications.",
+        "symptoms": [
+          "Diarrhea (which may be bloody)",
+          "Fever",
+          "Stomach cramps",
+          "Nausea",
+          "Vomiting"
+        ],
+        "treatments": [
+          "Drinking fluids to prevent dehydration",
+          "Antibiotics (in severe cases)"
+        ]
+      },
+      {
+        "name": "Smallpox",
+        "description": "Smallpox is a contagious disease caused by the variola virus. It is characterized by a fever and a distinctive rash.",
+        "symptoms": [
+          "Fever",
+          "Fatigue",
+          "Headache",
+          "Backache",
+          "Rash"
+        ],
+        "treatments": [
+          "Vaccination",
+          "Antiviral drugs",
+          "Symptomatic relief"
+        ]
+      },
+      {
+        "name": "Staphylococcal scalded skin syndrome",
+        "description": "Staphylococcal scalded skin syndrome is a rare skin condition caused by the bacteria Staphylococcus aureus. It is characterized by redness and blistering of the skin.",
+        "symptoms": [
+          "Fever",
+          "Redness of the skin",
+          "Blisters on the skin",
+          "Skin peeling"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relief medication",
+          "Intravenous fluids"
+        ]
+      },
+      {
+        "name": "Strep throat",
+        "description": "Strep throat is a bacterial infection that affects the throat and tonsils. It is characterized by a sore throat, fever, and swollen lymph nodes.",
+        "symptoms": [
+          "Sore throat",
+          "Fever",
+          "Swollen lymph nodes",
+          "Difficulty swallowing"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relief medication",
+          "Rest and fluids"
+        ]
+      },
+      {
+        "name": "Syphilis",
+        "description": "Syphilis is a sexually transmitted infection caused by the bacteria Treponema pallidum. It is characterized by a sore or ulcer at the site of infection and a rash that can appear on the palms of the hands and soles of the feet.",
+        "symptoms": [
+          "Painless sore or ulcer",
+          "Rash on the palms of the hands and soles of the feet",
+          "Fever",
+          "Fatigue"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Penicillin injections",
+          "Regular testing"
+        ]
+      },
+      {
+        "name": "Tetanus",
+        "description": "Tetanus is a bacterial infection that affects the nervous system. It is characterized by muscle stiffness and spasms, particularly in the jaw muscles.",
+        "symptoms": [
+          "Muscle stiffness and spasms",
+          "Jaw cramping",
+          "Fever",
+          "Sweating"
+        ],
+        "treatments": [
+          "Antitoxin medication",
+          "Muscle relaxants",
+          "Pain relief medication"
+        ]
+      },
+      {
+        "name": "Toxoplasmosis",
+        "description": "Toxoplasmosis is a parasitic infection caused by the Toxoplasma gondii parasite. It is usually transmitted through contact with contaminated cat feces, eating undercooked meat, or vertical transmission from mother to fetus during pregnancy.",
+        "symptoms": [
+          "Flu-like symptoms (such as fever, fatigue, body aches)",
+          "Swollen lymph nodes",
+          "Muscle aches and pains",
+          "Headache",
+          "Sore throat",
+          "Skin rash",
+          "Inflammation of the lungs, heart, or eyes (in severe cases)"
+        ],
+        "treatments": [
+          "Antibiotics (such as sulfadiazine, pyrimethamine, and clindamycin)",
+          "Corticosteroids (to reduce inflammation in severe cases)",
+          "Symptomatic treatment (such as pain relievers, fever reducers, and rest)"
+        ]
+      },
+      {
+        "name": "Trachoma",
+        "description": "Trachoma is a bacterial infection of the eyes caused by the Chlamydia trachomatis bacterium. It is usually transmitted through contact with contaminated hands, clothing, or flies.",
+        "symptoms": [
+          "Irritation and redness of the eyes",
+          "Swelling of the eyelids",
+          "Discharge from the eyes",
+          "Sensitivity to light",
+          "Blurred vision",
+          "Formation of small bumps on the inner surface of the eyelids (in severe cases)"
+        ],
+        "treatments": [
+          "Antibiotics (such as azithromycin and tetracycline)",
+          "Surgery (in severe cases)",
+          "Facial cleanliness and environmental improvements (to prevent transmission)"
+        ]
+      },
+      {
+        "name": "Tuberculosis",
+        "description": "Tuberculosis (TB) is a bacterial infection caused by the Mycobacterium tuberculosis bacterium. It usually affects the lungs, but can also affect other parts of the body.",
+        "symptoms": [
+          "Coughing (with or without blood)",
+          "Chest pain",
+          "Fatigue",
+          "Fever",
+          "Night sweats",
+          "Loss of appetite",
+          "Weight loss",
+          "Shortness of breath (in severe cases)"
+        ],
+        "treatments": [
+          "Antibiotics (such as isoniazid, rifampin, and ethambutol)",
+          "Directly Observed Therapy (DOT) to ensure compliance with medication",
+          "Surgery (in severe cases)",
+          "Vaccination (in some cases)"
+        ]
+      },
+      {
+        "name": "Tularemia",
+        "description": "Tularemia is a rare infectious disease caused by the bacterium Francisella tularensis.",
+        "symptoms": [
+          "Fever",
+          "Chills",
+          "Headache",
+          "Muscle aches",
+          "Joint pain",
+          "Dry cough",
+          "Progressive weakness"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Typhoid fever",
+        "description": "Typhoid fever is a bacterial infection caused by Salmonella typhi.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Abdominal pain",
+          "Loss of appetite",
+          "Fatigue",
+          "Diarrhea or constipation",
+          "Rash"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Typhus",
+        "description": "Typhus is a group of infectious diseases caused by bacteria called Rickettsia.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Muscle pain",
+          "Nausea and vomiting",
+          "Rash",
+          "Cough"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "Urinary tract infection (UTI)",
+        "description": "Urinary tract infection (UTI) is an infection in any part of the urinary system, including the kidneys, bladder, and urethra.",
+        "symptoms": [
+          "Burning sensation during urination",
+          "Frequent urge to urinate",
+          "Passing small amounts of urine",
+          "Cloudy urine",
+          "Strong-smelling urine",
+          "Pelvic pain"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain relievers"
+        ]
+      },
+      {
+        "name": "Varicella (chickenpox)",
+        "description": "Varicella, commonly known as chickenpox, is a highly contagious disease caused by the varicella-zoster virus.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Tiredness",
+          "Rash",
+          "Itching"
+        ],
+        "treatments": [
+          "Antiviral medications",
+          "Calamine lotion",
+          "Acetaminophen (Tylenol) for fever and discomfort"
+        ]
+      },
+      {
+        "name": "Vibrio infection",
+        "description": "Vibrio infection is a bacterial infection caused by the Vibrio bacterium.",
+        "symptoms": [
+          "Diarrhea",
+          "Abdominal pain",
+          "Nausea and vomiting",
+          "Fever",
+          "Chills",
+          "Low blood pressure"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Supportive care"
+        ]
+      },
+      {
+        "name": "West Nile virus infection",
+        "description": "West Nile virus (WNV) is a viral infection that typically spreads through the bite of an infected mosquito. Most people with WNV do not experience any symptoms. However, about 1 in 5 people who are infected will develop a fever along with other symptoms.",
+        "symptoms": [
+          "Fever",
+          "Headache",
+          "Body aches",
+          "Fatigue",
+          "Back pain",
+          "Skin rash",
+          "Swollen lymph nodes"
+        ],
+        "treatments": [
+          "There is no specific treatment for WNV infection",
+          "Over-the-counter pain relievers can help reduce fever and relieve some symptoms",
+          "In severe cases, hospitalization may be necessary for supportive care, such as intravenous fluids, pain management, and nursing care"
+        ]
+      },
+      {
+        "name": "Adenoiditis",
+        "description": "Adenoiditis is an inflammation of the adenoids, which are small pads of tissue located in the back of the throat.",
+        "symptoms": [
+          "Difficulty breathing through the nose",
+          "Snoring",
+          "Mouth breathing"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Nasal decongestants",
+          "Surgery to remove the adenoids"
+        ]
+      },
+      {
+        "name": "Anal fissure",
+        "description": "An anal fissure is a tear in the lining of the anus, which can cause pain and bleeding during bowel movements.",
+        "symptoms": [
+          "Pain during bowel movements",
+          "Bleeding from the anus",
+          "Itching or burning around the anus"
+        ],
+        "treatments": [
+          "Stool softeners",
+          "Topical analgesics",
+          "Surgery in severe cases"
+        ]
+      },
+      {
+        "name": "Bursitis",
+        "description": "Bursitis is an inflammation of the bursae, which are small sacs of fluid that cushion the joints and reduce friction between bones and soft tissues.",
+        "symptoms": [
+          "Joint pain",
+          "Swelling and redness",
+          "Stiffness and limited range of motion"
+        ],
+        "treatments": [
+          "Rest and ice",
+          "Anti-inflammatory medication",
+          "Physical therapy"
+        ]
+      },
+      {
+        "name": "Cholecystitis",
+        "description": "Cholecystitis is an inflammation of the gallbladder, which is a small organ located near the liver that stores bile.",
+        "symptoms": [
+          "Abdominal pain",
+          "Nausea and vomiting",
+          "Fever and chills"
+        ],
+        "treatments": [
+          "Antibiotics",
+          "Pain medication",
+          "Surgery to remove the gallbladder in severe cases"
+        ]
+      },
+      {
+        "name": "Chronic bronchitis",
+        "description": "Chronic bronchitis is a type of chronic obstructive pulmonary disease (COPD) that causes inflammation and narrowing of the airways in the lungs.",
+        "symptoms": [
+          "Persistent cough",
+          "Shortness of breath",
+          "Chest tightness"
+        ],
+        "treatments": [
+          "Bronchodilators",
+          "Corticosteroids",
+          "Oxygen therapy in severe cases"
+        ]
+      },
+      {
+        "name": "Cirrhosis of the liver",
+        "description": "Cirrhosis is a late stage of scarring of the liver caused by long-term liver damage. It can lead to liver failure and other complications such as bleeding, infections, and liver cancer.",
+        "symptoms": [
+          "Fatigue",
+          "Weakness",
+          "Loss of appetite",
+          "Nausea and vomiting",
+          "Abdominal pain and swelling",
+          "Jaundice",
+          "Itchy skin",
+          "Easy bruising and bleeding",
+          "Spider-like blood vessels on the skin"
+        ],
+        "treatments": [
+          "Medications to manage complications",
+          "Dietary changes to limit salt and fluid intake",
+          "Alcohol abstinence",
+          "Liver transplant"
+        ]
+      },
+      {
+        "name": "Congestive heart failure",
+        "description": "Congestive heart failure occurs when the heart is unable to pump enough blood to meet the body's needs. It can lead to symptoms such as shortness of breath, fatigue, and swelling in the legs and ankles.",
+        "symptoms": [
+          "Shortness of breath",
+          "Fatigue",
+          "Swelling in the legs, ankles, or feet",
+          "Rapid or irregular heartbeat",
+          "Chest pain",
+          "Persistent cough or wheezing",
+          "Lack of appetite",
+          "Confusion or impaired thinking"
+        ],
+        "treatments": [
+          "Medications to manage symptoms and improve heart function",
+          "Lifestyle changes such as diet and exercise",
+          "Implantation of devices such as pacemakers or defibrillators",
+          "Heart transplant"
+        ]
+      },
+      {
+        "name": "Dental caries",
+        "description": "Dental caries, also known as tooth decay, is a common dental problem caused by the breakdown of tooth enamel by bacteria. It can lead to pain, infection, and tooth loss if left untreated.",
+        "symptoms": [
+          "Toothache or pain when eating or drinking",
+          "Sensitivity to hot or cold temperatures",
+          "Visible holes or pits in the teeth",
+          "Dark spots on the teeth",
+          "Bad breath or a bad taste in the mouth"
+        ],
+        "treatments": [
+          "Fillings to repair cavities",
+          "Crowns to cover damaged teeth",
+          "Root canal therapy to treat infections",
+          "Tooth extraction in severe cases"
+        ]
+      },
+      {
+        "name": "Heart Attack",
+        "description": "A heart attack occurs when the blood flow to the heart muscle is blocked, usually by a blood clot. This can cause damage to the heart muscle and can be life-threatening.",
+        "symptoms": [
+          "Chest pain or discomfort",
+          "Upper body pain or discomfort in the arms, back, neck, jaw, or stomach",
+          "Shortness of breath",
+          "Nausea or vomiting",
+          "Lightheadedness, dizziness, or fainting",
+          "Sweating"
+        ],
+        "treatments": [
+          "Aspirin",
+          "Thrombolytics (clot-busting drugs)",
+          "Antiplatelet drugs",
+          "Coronary angioplasty and stenting",
+          "Coronary artery bypass surgery"
+        ]
+      },
+      {
+        "name": "Insomnia",
+        "description": "Insomnia is a sleep disorder that makes it difficult to fall asleep or stay asleep.",
+        "symptoms": [
+          "Difficulty falling asleep",
+          "Difficulty staying asleep",
+          "Waking up too early",
+          "Daytime fatigue",
+          "Difficulty concentrating"
+        ],
+        "treatments": [
+          "Improving sleep habits",
+          "Medications",
+          "Cognitive behavioral therapy"
+        ]
+      },
+      {
+        "name": "Intervertebral disc herniation",
+        "description": "Intervertebral disc herniation is a condition in which the jelly-like center of a spinal disc pushes through a crack in the tough outer layer and puts pressure on the nerves near the spine.",
+        "symptoms": [
+          "Back pain",
+          "Leg pain",
+          "Numbness or tingling in the legs or feet",
+          "Muscle weakness",
+          "Bowel or bladder problems"
+        ],
+        "treatments": [
+          "Rest and activity modification",
+          "Physical therapy",
+          "Medications",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Jaundice",
+        "description": "Jaundice is a condition that causes yellowing of the skin and whites of the eyes due to a buildup of bilirubin, a yellow pigment produced by the liver.",
+        "symptoms": [
+          "Yellowing of the skin and whites of the eyes",
+          "Dark urine",
+          "Pale stools",
+          "Fatigue",
+          "Abdominal pain"
+        ],
+        "treatments": [
+          "Treating the underlying cause",
+          "Phototherapy",
+          "Exchange transfusion",
+          "Medications"
+        ]
+      },
+      {
+        "name": "Nasal polyps",
+        "description": "Nasal polyps are noncancerous growths that develop in the lining of the nose or sinuses.",
+        "symptoms": [
+          "Stuffy or runny nose",
+          "Postnasal drip",
+          "Decreased sense of smell",
+          "Facial pain or pressure",
+          "Snoring"
+        ],
+        "treatments": [
+          "Nasal corticosteroids",
+          "Nasal sprays",
+          "Antihistamines",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Otitis media",
+        "description": "Otitis media is an infection or inflammation of the middle ear, which is the space behind the eardrum that contains the small bones that vibrate in response to sound.",
+        "symptoms": [
+          "Ear pain",
+          "Fever",
+          "Drainage from the ear",
+          "Difficulty hearing",
+          "Irritability"
+        ],
+        "treatments": [
+          "Watchful waiting",
+          "Antibiotics",
+          "Pain relievers",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Rectal cancer",
+        "description": "Rectal cancer is a type of cancer that occurs in the cells of the rectum, which is the last section of the large intestine.",
+        "symptoms": [
+          "Bleeding from the rectum",
+          "Changes in bowel habits",
+          "Abdominal pain or discomfort",
+          "Weakness and fatigue",
+          "Unintended weight loss"
+        ],
+        "treatments": [
+          "Surgery",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Targeted therapy"
+        ]
+      },
+      {
+        "name": "Sciatica",
+        "description": "Sciatica is a type of pain that affects the sciatic nerve, which runs from the lower back down to the legs and feet.",
+        "symptoms": [
+          "Pain in the lower back, buttocks, and legs",
+          "Numbness or tingling in the legs or feet",
+          "Weakness in the legs",
+          "Difficulty walking"
+        ],
+        "treatments": [
+          "Physical therapy",
+          "Pain medication",
+          "Steroid injections",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Skin cancer",
+        "description": "Skin cancer is a type of cancer that occurs in the cells of the skin.",
+        "symptoms": [
+          "Changes in the appearance of moles or other skin lesions",
+          "A new growth on the skin",
+          "A sore that doesn't heal",
+          "Pain, itching, or bleeding on the skin"
+        ],
+        "treatments": [
+          "Surgery",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Immunotherapy"
+        ]
+      },
+      {
+        "name": "Spinal stenosis",
+        "description": "Spinal stenosis is a narrowing of the spaces within the spine, which can put pressure on the nerves that travel through the spine.",
+        "symptoms": [
+          "Pain or numbness in the legs or arms",
+          "Weakness in the legs or arms",
+          "Difficulty walking or maintaining balance",
+          "Loss of bowel or bladder control"
+        ],
+        "treatments": [
+          "Physical therapy",
+          "Pain medication",
+          "Steroid injections",
+          "Surgery"
+        ]
+      },
+      {
+        "name": "Stomach cancer",
+        "description": "Stomach cancer is a type of cancer that occurs in the cells of the stomach.",
+        "symptoms": [
+          "Abdominal pain or discomfort",
+          "Nausea or vomiting",
+          "Loss of appetite",
+          "Unintended weight loss",
+          "Feeling full after eating small amounts of food"
+        ],
+        "treatments": [
+          "Surgery",
+          "Radiation therapy",
+          "Chemotherapy",
+          "Targeted therapy"
+        ]
+      },
+      {
+        "name": "Testicular cancer",
+        "description": "Testicular cancer occurs when abnormal cells in the testicles grow and divide uncontrollably, forming a mass or tumor.",
+        "symptoms": [
+          "A painless lump or swelling in the testicle",
+          "A feeling of heaviness in the scrotum",
+          "A dull ache in the abdomen or groin"
+        ],
+        "treatments": [
+          "Surgery to remove the affected testicle (orchiectomy)",
+          "Radiation therapy",
+          "Chemotherapy"
+        ]
+      },
+      {
+        "name": "Thyroid cancer",
+        "description": "Thyroid cancer is a type of cancer that starts in the cells of the thyroid gland, which is located in the front of the neck.",
+        "symptoms": [
+          "A lump or swelling in the neck",
+          "Pain in the neck or throat",
+          "Difficulty swallowing or breathing"
+        ],
+        "treatments": [
+          "Surgery to remove all or part of the thyroid gland",
+          "Radiation therapy",
+          "Chemotherapy"
+        ]
+      },
+      {
+        "name": "Tinnitus",
+        "description": "Tinnitus is a condition where a person hears a ringing, buzzing, or other noise in one or both ears that is not caused by an external sound.",
+        "symptoms": [
+          "Ringing, buzzing, or other noise in the ears",
+          "Difficulty sleeping or concentrating",
+          "Anxiety or depression"
+        ],
+        "treatments": [
+          "Identifying and treating underlying causes (e.g., earwax buildup, high blood pressure)",
+          "Using a white noise machine or other sound therapy",
+          "Counseling or therapy to help manage anxiety or depression"
+        ]
+      },
+      {
+        "name": "Uterine cancer",
+        "description": "Uterine cancer is a type of cancer that starts in the cells of the uterus (womb), which is a hollow organ in the female reproductive system.",
+        "symptoms": [
+          "Abnormal vaginal bleeding (e.g., bleeding between periods, after menopause)",
+          "Pelvic pain or pressure",
+          "Pain during sex"
+        ],
+        "treatments": [
+          "Surgery to remove the uterus (hysterectomy) and/or other affected organs",
+          "Radiation therapy",
+          "Chemotherapy"
+        ]
+      },
+      {
+        "name": "Venous insufficiency",
+        "description": "Venous insufficiency is a condition where the veins in the legs are unable to pump blood back up to the heart effectively, leading to swelling, pain, and other symptoms.",
+        "symptoms": [
+          "Swelling in the legs, ankles, or feet",
+          "Pain, aching, or cramping in the legs",
+          "Skin changes (e.g., discoloration, thickening, ulcers)"
+        ],
+        "treatments": [
+          "Wearing compression stockings",
+          "Elevating the legs when sitting or lying down",
+          "Medications to improve blood flow or prevent blood clots"
+        ]
+      },
+      {
+        "name": "Vertigo",
+        "description": "Vertigo is a sensation of spinning dizziness that can occur without any movement. It is often caused by problems with the inner ear or brain.",
+        "symptoms": [
+          "Dizziness",
+          "Balance problems",
+          "Nausea or vomiting",
+          "Headache",
+          "Sweating",
+          "Ringing in the ears"
+        ],
+        "treatments": [
+          "Medications to relieve symptoms",
+          "Vestibular rehabilitation therapy",
+          "Surgery (in severe cases)"
+        ]
+      },
+      {
+        "name": "Vitiligo",
+        "description": "Vitiligo is a condition that causes the skin to lose its pigment, resulting in white patches on the skin. It occurs when the cells that produce pigment in the skin are destroyed.",
+        "symptoms": [
+          "White patches on the skin",
+          "Premature whitening of hair on scalp, eyelashes, eyebrows or beard",
+          "Loss of color inside the mouth",
+          "Loss or change in color of the retina"
+        ],
+        "treatments": [
+          "Topical corticosteroids",
+          "Topical calcineurin inhibitors",
+          "Narrowband ultraviolet B (NB-UVB) therapy",
+          "Excimer laser",
+          "Depigmentation (in severe cases)"
+        ]
+      },
+      {
+        "name": "Whiplash",
+        "description": "Whiplash is a neck injury that occurs when the head is suddenly jerked backward and then forward, causing damage to the soft tissues in the neck.",
+        "symptoms": [
+          "Neck pain and stiffness",
+          "Headache",
+          "Shoulder pain",
+          "Dizziness",
+          "Fatigue",
+          "Difficulty concentrating"
+        ],
+        "treatments": [
+          "Pain medication",
+          "Physical therapy",
+          "Chiropractic care",
+          "Muscle relaxants",
+          "Corticosteroid injections",
+          "Surgery (in rare cases)"
+        ]
+      },
+      {
+        "name": "Wilson's disease",
+        "description": "Wilson's disease is a rare genetic disorder that causes copper to accumulate in the liver, brain and other organs. This can lead to liver disease, neurological problems and psychiatric symptoms.",
+        "symptoms": [
+          "Fatigue",
+          "Abdominal pain",
+          "Jaundice",
+          "Tremors",
+          "Difficulty speaking or swallowing",
+          "Psychiatric symptoms (e.g. depression, anxiety, psychosis)"
+        ],
+        "treatments": [
+          "Chelation therapy",
+          "Zinc therapy",
+          "Liver transplant (in severe cases)"
+        ]
+      },
+      {
+        "name": "Yeast infection",
+        "description": "A yeast infection is a common fungal infection caused by the overgrowth of the Candida fungus.",
+        "symptoms": [
+          "Vaginal itching",
+          "Burning sensation during urination",
+          "Pain during sexual intercourse",
+          "Swelling and redness of the vulva",
+          "White, thick, odorless vaginal discharge with a cottage cheese-like appearance"
+        ],
+        "treatments": [
+          "Antifungal creams, ointments, or suppositories",
+          "Antifungal oral medications",
+          "Boric acid suppositories",
+          "Probiotics"
+        ]
+      },
+      {
+        "name": "Zika virus infection",
+        "description": "Zika virus is a mosquito-borne virus that can cause mild to severe symptoms, including fever, rash, joint pain, and red eyes. It can also cause birth defects in infants born to infected mothers.",
+        "symptoms": [
+          "Fever",
+          "Rash",
+          "Joint pain",
+          "Red eyes (conjunctivitis)",
+          "Muscle pain",
+          "Headache"
+        ],
+        "treatments": [
+          "Rest",
+          "Fluids",
+          "Pain relievers",
+          "Avoiding mosquito bites",
+          "Pregnant women should avoid travel to areas with ongoing Zika virus outbreaks"
+        ]
+      },
+      {
+        "name": "greeting",
+        "description": "",
+        "symptoms": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "treatments": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there!"
+        ]
+      },
+      {
+        "name": "goodbye",
+        "description": "",
+        "symptoms": ["Bye", "See you later", "Goodbye"],
+        "treatments": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "name": "thanks",
+        "description": "",
+        "symptoms": [
+          "thank you",
+          "thanks",
+          "appreciate it"
+        ],
+        "treatments": [
+          "You're welcome! It was my pleasure to help.",
+          "No problem! Glad I could be of assistance.",
+          "You're welcome! Let me know if you need help with anything else."
+        ]
+      },
+      {
+        "name": "about_you",
+        "description": "",
+        "symptoms": [
+          "who are you",
+          "what are you",
+          "tell me about yourself",
+          "what can you do",
+          "help",
+          "need help",
+          "can you help me"
+        ],
+        "treatments": [
+          "I'm Pulse, a symptom checker and healthcare assistant. I'm here to help you identify and better understand your symptoms, and provide you with personalized guidance on next steps."
+        ]
+      }
+    ]
+}
+  
