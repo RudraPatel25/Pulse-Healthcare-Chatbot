@@ -110,7 +110,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 if name in greeting_response:
                     greeting_return = random.choice(disease['treatments'])
                     await context.bot.send_message(chat_id=update.effective_chat.id, text=greeting_return)
-                    await context.bot.send_message(chat_id=update.effective_chat.id, text="How can I help you today? Please describe your symptoms.")
                     context.user_data['prev_msg'] = 'start'
                     context.user_data['prev_suggestions'] = ['fever', 'cough', 'headache', 'fatigue', 'nausea', 'dizziness', 'chills', 'sore throat']
                     await suggest(update, context)
