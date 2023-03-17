@@ -99,7 +99,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     name = names[predicted.item()]
 
-    greeting_response = ['greeting', 'goodbye', 'thanks', 'about_you']
+    greeting_response = ['greeting', 'about_you']
+    thanking_response = ['goodbye', 'thanks']
 
     probs = torch.softmax(output, dim=1)
     prob = probs[0][predicted.item()]
@@ -113,6 +114,9 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     context.user_data['prev_msg'] = 'start'
                     context.user_data['prev_suggestions'] = ['fever', 'cough', 'headache', 'fatigue', 'nausea', 'dizziness', 'chills', 'sore throat']
                     await suggest(update, context)
+                elif name in thanking_response:
+                    thanking_return = random.choice(disease['treatments'])
+                    await context.bot.send_message(chat_id=update.effective_chat.id, text=thanking_return)
                 else:
                     disease_value = "You may diagnose with {name}.\n"
                     disease_name = name
@@ -124,4 +128,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     else:
         await context.bot.send_message(chat_id=update.effective_chat.id, text="Sorry, I couldn't find a match.")
+        context.user_data['prev_msg'] = 'start'
+        context.user_data['prev_suggestions'] = ['fever', 'cough', 'headache', 'fatigue', 'nausea', 'dizziness', 'chills', 'sore throat']
         await suggest(update, context)
