@@ -4,7 +4,7 @@ from chat import handle_message, suggest
 from telegram import Update
 from telegram.ext import filters, MessageHandler, ApplicationBuilder, CommandHandler, ContextTypes, ConversationHandler
 
-TOKEN = '6027508451:AAH6aoVs2gzVZ6m30PlBGGfzAte5k6V8QjE'
+TOKEN = 'Type your Telegram-bot Token here'
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
