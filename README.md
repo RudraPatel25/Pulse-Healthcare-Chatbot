@@ -2,6 +2,14 @@
 
 PULSE is a health chatbot that engages with patients in real-time, gathers information about their symptoms, provides diagnoses, and prescribes treatments. It aims to assist users by offering medical guidance and support on localhost.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Installation
 
 Follow these steps to set up and run the PULSE health chatbot on your localhost:
@@ -28,11 +36,22 @@ Follow these steps to set up and run the PULSE health chatbot on your localhost:
 
     ```bash
       python app.py
-    
+
+
 2. Open your web browser and navigate to http://localhost:5000 to access the chatbot interface.
 
-3. Alternatively, you can interact with the chatbot through Telegram:
+3. Telegram Bot (Optional):
+    - If you want to interact with the PULSE chatbot through Telegram, follow these steps:
 
+    - Create a Telegram bot and obtain the API token.
+ 
+    - Open the telegram_bot.py script and replace YOUR_TELEGRAM_API_TOKEN with your actual Telegram API token.
+
+    - Run the telegram_bot.py script:
+
+        ```bash
+            python telegram_bot.py
+    
     - Open Telegram and search for @pulse_chatbot.
     - Start a chat with the PULSE Chatbot and follow the prompts to provide your symptoms and receive real-time diagnoses and treatment suggestions.
 
