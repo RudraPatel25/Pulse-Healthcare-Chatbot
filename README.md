@@ -17,7 +17,7 @@ Follow these steps to set up and run the PULSE health chatbot on your localhost:
 1. Clone this repository to your local machine:
 
     ```bash
-       git clone https://github.com/your-username/PULSE.git
+       git clone https://github.com/RudraPatel25/Pulse-Healthcare-Chatbot.git
        cd PULSE
 
 2. Install the required dependencies using pip:
